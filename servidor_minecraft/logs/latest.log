@@ -399,3 +399,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 22:47:29.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2636.500000, 147.500000, 4306.500000]
 [29Dec2024 22:47:39.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2726.500000, 63.500000, 4150.500000]
 [29Dec2024 22:47:57.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Dec2024 22:52:07.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Terrible Tree 
+[29Dec2024 22:52:15.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Dec2024 22:56:44.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [Audiophile]
+[29Dec2024 22:57:48.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2638.500000, 149.500000, 4307.500000]
+[29Dec2024 22:57:53.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 619.500000, 30.500000, -103.500000]
