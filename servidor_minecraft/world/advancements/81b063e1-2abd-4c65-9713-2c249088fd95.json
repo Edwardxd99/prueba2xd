@@ -4156,5 +4156,11 @@
     },
     "done": true
   },
+  "eternal_tales:get_music_disc": {
+    "criteria": {
+      "get_music_disc_0": "2024-12-29 20:07:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

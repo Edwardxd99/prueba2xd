@@ -276,3 +276,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 20:04:53.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Comets Beetle
 [29Dec2024 20:04:59.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
 [29Dec2024 20:05:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Sonic]
+[29Dec2024 20:07:02.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has completed the challenge [Audiophile]
+[29Dec2024 20:14:06.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2636.500000, 149.500000, 4306.500000]
+[29Dec2024 20:14:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[29Dec2024 20:14:23.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Dec2024 20:15:24.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Extraterrestrial Gardener]
