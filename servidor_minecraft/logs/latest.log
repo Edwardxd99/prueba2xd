@@ -244,3 +244,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 19:12:05.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
 [29Dec2024 19:12:27.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jedu13> gei
 [29Dec2024 19:14:34.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Gamerule keepInventory is now set to: true]
+[29Dec2024 19:34:14.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2636.500000, 148.500000, 4304.500000]
+[29Dec2024 19:35:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Mauro17YT to Jedu13]
