@@ -4162,6 +4162,12 @@
     },
     "done": true
   },
+  "eternal_tales:use_energy_drink": {
+    "criteria": {
+      "use_energy_drink_0": "2024-12-29 22:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-12-29 21:00:05 +0000"
