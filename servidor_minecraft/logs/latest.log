@@ -371,3 +371,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 21:55:09.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
 [29Dec2024 21:55:40.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 551.500000, 63.500000, -72.500000]
 [29Dec2024 21:55:56.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[29Dec2024 22:02:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
+[29Dec2024 22:02:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
+[29Dec2024 22:03:14.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
+[29Dec2024 22:04:00.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
