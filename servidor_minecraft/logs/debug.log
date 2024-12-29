@@ -3275,3 +3275,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 22:56:44.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [Audiophile]
 [29Dec2024 22:57:48.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2638.500000, 149.500000, 4307.500000]
 [29Dec2024 22:57:53.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 619.500000, 30.500000, -103.500000]
+[29Dec2024 22:59:50.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2636.500000, 147.500000, 4306.500000]
+[29Dec2024 22:59:58.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2726.500000, 63.500000, 4150.500000]
+[29Dec2024 23:00:54.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:00:54.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:05:21.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Dec2024 23:05:54.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:05:54.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:07:11.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Dec2024 23:08:02.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
