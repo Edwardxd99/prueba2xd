@@ -229,3 +229,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 19:01:00.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27f65e73[id=372f4108-7f9e-4f06-b6aa-66dd30e4cef1,name=Mauro17YT,properties={textures=[com.mojang.authlib.properties.Property@d7d3bc8]},legacy=false] (/127.98.125.159:51997) lost connection: Connection closed - mismatched mod channel list
 [29Dec2024 19:03:34.048] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
 [29Dec2024 19:03:35.527] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c65f363[id=372f4108-7f9e-4f06-b6aa-66dd30e4cef1,name=Mauro17YT,properties={textures=[com.mojang.authlib.properties.Property@27678c99]},legacy=false] (/127.98.125.159:49867) lost connection: Disconnected
+[29Dec2024 19:08:09.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[29Dec2024 19:08:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[29Dec2024 19:09:55.111] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[29Dec2024 19:09:57.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:32797] logged in with entity id 1050 at (591.9375312565951, 30.0, -118.61739186847126)
+[29Dec2024 19:09:57.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[29Dec2024 19:10:14.714] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[29Dec2024 19:10:17.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.98.125.159:38543] logged in with entity id 1292 at (623.8997877662762, 31.0, -108.13757440580387)
+[29Dec2024 19:10:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[29Dec2024 19:11:58.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[29Dec2024 19:11:58.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[29Dec2024 19:12:03.596] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[29Dec2024 19:12:05.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.98.125.159:50017] logged in with entity id 1519 at (619.4561826489124, 30.0, -102.81333903523466)
+[29Dec2024 19:12:05.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[29Dec2024 19:12:27.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jedu13> gei
+[29Dec2024 19:14:34.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Gamerule keepInventory is now set to: true]
