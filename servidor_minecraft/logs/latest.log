@@ -380,3 +380,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 22:13:55.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
 [29Dec2024 22:17:37.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
 [29Dec2024 22:17:37.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[29Dec2024 22:20:11.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 437.500000, 15.500000, -129.500000]
+[29Dec2024 22:22:22.848] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[29Dec2024 22:22:24.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.98.125.159:46931] logged in with entity id 36869 at (618.567507562263, 30.0, -103.95142174078998)
+[29Dec2024 22:22:25.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[29Dec2024 22:22:32.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2636.500000, 148.500000, 4304.500000]
+[29Dec2024 22:22:33.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[29Dec2024 22:22:33.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[29Dec2024 22:28:54.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2637.500000, 149.500000, 4308.500000]
