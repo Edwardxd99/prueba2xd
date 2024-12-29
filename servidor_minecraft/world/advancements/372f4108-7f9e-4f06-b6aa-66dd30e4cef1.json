@@ -705,6 +705,7 @@
       "minecraft:blaze": "2024-12-23 20:56:04 +0000",
       "minecraft:skeleton": "2024-12-14 17:13:38 +0000",
       "minecraft:ravager": "2024-12-26 00:12:12 +0000",
+      "minecraft:ghast": "2024-12-29 21:40:13 +0000",
       "minecraft:hoglin": "2024-12-18 18:23:23 +0000",
       "minecraft:magma_cube": "2024-12-15 22:15:48 +0000",
       "minecraft:spider": "2024-12-14 17:10:16 +0000",
@@ -3852,15 +3853,21 @@
     },
     "done": true
   },
+  "eternal_tales:kill_terrible_tree": {
+    "criteria": {
+      "kill_terrible_tree_0": "2024-12-29 19:40:43 +0000"
+    },
+    "done": true
+  },
   "eternal_tales:use_energy_drink": {
     "criteria": {
       "use_energy_drink_0": "2024-12-29 20:05:24 +0000"
     },
     "done": true
   },
-  "eternal_tales:kill_terrible_tree": {
+  "eternal_tales:get_ectraterrestrial_gardeners_pot": {
     "criteria": {
-      "kill_terrible_tree_0": "2024-12-29 19:40:43 +0000"
+      "get_ectraterrestrial_gardeners_pot_0": "2024-12-29 20:15:24 +0000"
     },
     "done": true
   },
@@ -3873,12 +3880,6 @@
   "eternal_tales:yummy": {
     "criteria": {
       "yummy_0": "2024-12-29 21:20:45 +0000"
-    },
-    "done": true
-  },
-  "eternal_tales:get_ectraterrestrial_gardeners_pot": {
-    "criteria": {
-      "get_ectraterrestrial_gardeners_pot_0": "2024-12-29 20:15:24 +0000"
     },
     "done": true
   },

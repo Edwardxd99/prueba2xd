@@ -4240,6 +4240,12 @@
     },
     "done": true
   },
+  "eternal_tales:get_pharos": {
+    "criteria": {
+      "get_pharos_0": "2024-12-29 21:43:36 +0000"
+    },
+    "done": true
+  },
   "eternal_tales:get_ectraterrestrial_gardeners_pot": {
     "criteria": {
       "get_ectraterrestrial_gardeners_pot_0": "2024-12-29 20:25:44 +0000"
