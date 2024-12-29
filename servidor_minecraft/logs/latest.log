@@ -266,3 +266,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 19:48:15.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 511.500000, 66.500000, -99.500000]
 [29Dec2024 19:50:03.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 504.500000, 64.500000, -87.500000]
 [29Dec2024 19:50:35.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[29Dec2024 19:58:25.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2636.500000, 148.500000, 4304.500000]
+[29Dec2024 19:58:28.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Mauro17YT to Jedu13]
+[29Dec2024 19:59:00.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Dec2024 20:00:36.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Terrible Tree 
+[29Dec2024 20:00:48.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Dec2024 20:01:22.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Terrible Tree 
+[29Dec2024 20:01:26.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Dec2024 20:04:53.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Comets Beetle
+[29Dec2024 20:04:59.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Dec2024 20:05:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Sonic]
