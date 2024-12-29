@@ -4204,6 +4204,12 @@
     },
     "done": true
   },
+  "eternal_tales:yummy": {
+    "criteria": {
+      "yummy_0": "2024-12-29 21:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-29 21:00:05 +0000"
