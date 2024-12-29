@@ -289,3 +289,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 20:42:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 253.500000, 65.500000, 20.500000]
 [29Dec2024 20:44:56.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
 [29Dec2024 20:51:25.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Young Gardener]
+[29Dec2024 20:59:42.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Dec2024 21:07:26.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Yummy!]
