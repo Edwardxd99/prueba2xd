@@ -375,3 +375,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 22:02:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
 [29Dec2024 22:03:14.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
 [29Dec2024 22:04:00.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
+[29Dec2024 22:13:53.100] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[29Dec2024 22:13:55.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.98.125.159:56649] logged in with entity id 35164 at (618.661423211825, 30.0, -105.82905960655944)
+[29Dec2024 22:13:55.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[29Dec2024 22:17:37.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[29Dec2024 22:17:37.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
