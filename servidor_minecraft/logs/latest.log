@@ -246,3 +246,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 19:14:34.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Gamerule keepInventory is now set to: true]
 [29Dec2024 19:34:14.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2636.500000, 148.500000, 4304.500000]
 [29Dec2024 19:35:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Mauro17YT to Jedu13]
+[29Dec2024 19:37:38.408] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[29Dec2024 19:37:38.450] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [136 absolute-0 below top]
+[29Dec2024 19:37:39.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT was kicked for floating too long!
+[29Dec2024 19:37:39.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Flying is not enabled on this server
+[29Dec2024 19:37:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[29Dec2024 19:37:45.993] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[29Dec2024 19:37:48.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.98.125.159:51353] logged in with entity id 4969 at (2752.2646225728186, -84.40979579925751, 4294.476143470678)
+[29Dec2024 19:37:48.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[29Dec2024 19:37:48.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Mauro17YT to Jedu13]
+[29Dec2024 19:37:52.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT fell from a high place
+[29Dec2024 19:37:59.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Mauro17YT to Jedu13]
+[29Dec2024 19:40:43.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Only you are more terrible]

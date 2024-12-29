@@ -3852,5 +3852,11 @@
     },
     "done": true
   },
+  "eternal_tales:kill_terrible_tree": {
+    "criteria": {
+      "kill_terrible_tree_0": "2024-12-29 19:40:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
