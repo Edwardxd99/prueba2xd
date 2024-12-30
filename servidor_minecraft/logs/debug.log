@@ -3329,3 +3329,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 23:28:37.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Mauro17YT
 [29Dec2024 23:28:43.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3049.500000, 69.500000, 3673.500000]
 [29Dec2024 23:29:07.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Dec2024 23:30:54.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:30:54.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:35:54.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:35:54.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:37:20.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Dead Dune Martyr
+[29Dec2024 23:37:27.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3050.500000, 69.500000, 3676.500000]
+[29Dec2024 23:38:58.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3130.500000, 67.500000, 3753.500000]
+[29Dec2024 23:39:18.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Dec2024 23:39:32.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3038.500000, 228.500000, 3832.500000]
+[29Dec2024 23:40:54.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:40:54.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:42:23.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3236.500000, 85.500000, 3758.500000]
+[29Dec2024 23:42:32.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3347.500000, 89.500000, 3760.500000]
+[29Dec2024 23:44:55.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Dec2024 23:45:13.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/63107, l='ServerLevel[world]', x=3039.61, y=258.00, z=3779.15] died: Gearling was slain by Mauro17YT
+[29Dec2024 23:45:15.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/63113, l='ServerLevel[world]', x=3041.17, y=258.00, z=3780.21] died: Gearling was slain by Mauro17YT
+[29Dec2024 23:45:17.275] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/63145, l='ServerLevel[world]', x=3040.52, y=258.00, z=3779.53] died: Gearling was slain by Mauro17YT
+[29Dec2024 23:45:20.810] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/63158, l='ServerLevel[world]', x=3039.49, y=258.00, z=3783.34] died: Gearling was slain by Mauro17YT
+[29Dec2024 23:45:24.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/63166, l='ServerLevel[world]', x=3037.83, y=258.00, z=3784.56] died: Gearling was slain by Mauro17YT
+[29Dec2024 23:45:31.628] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/63182, l='ServerLevel[world]', x=3031.39, y=259.00, z=3775.88] died: Gearling was slain by Mauro17YT
+[29Dec2024 23:45:34.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Gearling
+[29Dec2024 23:45:38.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3036.500000, 258.500000, 3772.500000]
+[29Dec2024 23:45:43.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/63191, l='ServerLevel[world]', x=3036.85, y=261.68, z=3770.16] died: Gearling was slain by Mauro17YT
+[29Dec2024 23:45:44.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/63170, l='ServerLevel[world]', x=3036.85, y=262.17, z=3770.44] died: Gearling was slain by Mauro17YT
+[29Dec2024 23:45:47.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/63188, l='ServerLevel[world]', x=3037.02, y=262.00, z=3768.68] died: Gearling was slain by Mauro17YT
+[29Dec2024 23:45:54.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:45:54.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:49:01.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2991.500000, 291.500000, 3871.500000]
+[29Dec2024 23:50:43.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3054.500000, 272.500000, 3878.500000]
+[29Dec2024 23:50:54.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:50:54.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:52:08.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2991.500000, 214.500000, 3921.500000]
+[29Dec2024 23:54:05.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was shot by Skeleton
+[29Dec2024 23:54:10.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2982.500000, 224.500000, 3878.500000]
+[29Dec2024 23:55:54.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 23:55:54.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 23:56:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Skeleton
+[29Dec2024 23:56:29.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2985.500000, 213.500000, 3872.500000]
+[29Dec2024 23:56:36.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Skeleton
+[29Dec2024 23:56:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2985.500000, 213.500000, 3872.500000]
+[29Dec2024 23:56:48.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Skeleton
+[29Dec2024 23:56:53.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2985.500000, 213.500000, 3872.500000]
+[29Dec2024 23:59:22.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[30Dec2024 00:00:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3040.500000, 252.500000, 3926.500000]
+[30Dec2024 00:00:54.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:00:54.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:01:27.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[30Dec2024 00:02:16.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 619.500000, 30.500000, -103.500000]
+[30Dec2024 00:05:54.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:05:54.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:08:46.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Crafting a New Look]
+[30Dec2024 00:10:24.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Crafting a New Look]
+[30Dec2024 00:10:54.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:10:54.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
