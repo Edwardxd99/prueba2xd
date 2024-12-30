@@ -4016,6 +4016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-30 00:19:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-12-30 00:08:46 +0000"
@@ -4061,6 +4067,12 @@
   "eternal_tales:get_music_disc": {
     "criteria": {
       "get_music_disc_0": "2024-12-29 22:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-30 00:17:30 +0000"
     },
     "done": true
   },

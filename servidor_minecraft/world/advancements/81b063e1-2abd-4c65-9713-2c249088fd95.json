@@ -596,6 +596,7 @@
       "minecraft:spider": "2024-12-14 19:36:32 +0000",
       "minecraft:piglin_brute": "2024-12-24 04:55:34 +0000",
       "minecraft:creeper": "2024-12-14 19:12:31 +0000",
+      "minecraft:wither": "2024-12-30 00:19:21 +0000",
       "minecraft:slime": "2024-12-18 17:34:25 +0000",
       "minecraft:phantom": "2024-12-18 18:22:51 +0000",
       "minecraft:zombified_piglin": "2024-12-23 21:44:29 +0000",
@@ -4258,6 +4259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-30 00:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2024-12-29 23:49:19 +0000"
@@ -4435,6 +4442,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-29 23:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-30 00:17:30 +0000"
     },
     "done": true
   },
