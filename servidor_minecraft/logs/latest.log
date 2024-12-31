@@ -1143,3 +1143,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 01:58:28.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Jedu13: Location (91.83129072189331, 73.82873368263245, -52.0) too far away from hit block BlockPos{x=91, y=72, z=-53}.
 [31Dec2024 01:58:29.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Jedu13: Location (91.82804518938065, 73.79125308990479, -52.0) too far away from hit block BlockPos{x=91, y=72, z=-53}.
 [31Dec2024 01:58:29.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Jedu13: Location (91.83450698852539, 73.68720400333405, -52.0) too far away from hit block BlockPos{x=91, y=72, z=-53}.
+[31Dec2024 02:03:31.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 11.500000, 97.500000, -38.500000]
+[31Dec2024 02:03:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 33.500000, 79.500000, -22.500000]
+[31Dec2024 02:04:34.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 0.500000, 61.500000, 1.500000]
+[31Dec2024 02:04:40.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -19.500000, 95.500000, -5.500000]
+[31Dec2024 02:05:57.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -0.500000, 61.500000, 1.500000]
+[31Dec2024 02:08:24.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Free the End]
+[31Dec2024 02:10:11.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -19.500000, 97.500000, -6.500000]
+[31Dec2024 02:10:28.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -116.500000, 85.500000, -82.500000]
+[31Dec2024 02:10:37.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -205.500000, 99.500000, 88.500000]
+[31Dec2024 02:11:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1840.500000, 98.500000, 680.500000]
+[31Dec2024 02:11:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [The City at the End of the Game]
