@@ -1164,3 +1164,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 02:21:41.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1469.500000, 59.500000, -214.500000]
 [31Dec2024 02:21:59.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1573.500000, 60.500000, -336.500000]
 [31Dec2024 02:23:25.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2002.500000, 61.500000, -165.500000]
+[31Dec2024 02:24:05.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2626.500000, 62.000000, 18.500000]
+[31Dec2024 02:27:02.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was doomed to fall by Phantom
+[31Dec2024 02:33:14.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[31Dec2024 02:40:54.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Suicidal Man]
+[31Dec2024 02:43:43.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
+[31Dec2024 02:43:56.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]

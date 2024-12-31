@@ -4555,6 +4555,12 @@
     },
     "done": true
   },
+  "eternal_tales:activate_super_duper_darkness_mode": {
+    "criteria": {
+      "activate_super_duper_darkness_mode_0": "2024-12-31 02:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-12-31 02:15:13 +0000"
