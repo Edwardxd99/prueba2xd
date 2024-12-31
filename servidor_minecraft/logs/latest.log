@@ -1154,3 +1154,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 02:10:37.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -205.500000, 99.500000, 88.500000]
 [31Dec2024 02:11:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1840.500000, 98.500000, 680.500000]
 [31Dec2024 02:11:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [The City at the End of the Game]
+[31Dec2024 02:19:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1152.500000, 146.000000, 72.500000]
+[31Dec2024 02:19:18.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 fell from a high place
+[31Dec2024 02:19:27.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 124.500000, -16.500000, 1612.500000]
+[31Dec2024 02:19:34.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1152.500000, 58.500000, 72.500000]
+[31Dec2024 02:19:50.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1257.500000, 68.500000, 127.500000]
+[31Dec2024 02:20:10.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1305.500000, 64.500000, -30.500000]
+[31Dec2024 02:21:15.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1446.500000, 58.500000, -196.500000]
+[31Dec2024 02:21:41.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1469.500000, 59.500000, -214.500000]
+[31Dec2024 02:21:59.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1573.500000, 60.500000, -336.500000]
+[31Dec2024 02:23:25.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2002.500000, 61.500000, -165.500000]
