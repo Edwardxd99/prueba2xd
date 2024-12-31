@@ -1179,3 +1179,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 02:50:00.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
 [31Dec2024 03:13:22.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
 [31Dec2024 03:13:33.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
+[31Dec2024 03:17:27.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[31Dec2024 03:17:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[31Dec2024 03:17:39.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Dec2024 03:17:39.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 03:17:39.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 03:17:39.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 03:17:39.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 03:17:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:kingdom_of_amber
+[31Dec2024 03:17:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:comets
+[31Dec2024 03:17:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:unahzaal_multiverse
+[31Dec2024 03:17:40.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 03:17:40.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:lands_of_karvat
+[31Dec2024 03:17:40.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:ultimate_world
+[31Dec2024 03:17:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:gardens_of_eden
+[31Dec2024 03:17:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:volcanech
+[31Dec2024 03:17:40.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:purgatorium
+[31Dec2024 03:17:40.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:rayana
+[31Dec2024 03:17:40.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 03:17:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 03:17:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kingdom_of_amber): All chunks are saved
+[31Dec2024 03:17:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (comets): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (unahzaal_multiverse): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lands_of_karvat): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ultimate_world): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gardens_of_eden): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (volcanech): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (purgatorium): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (rayana): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 03:17:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
