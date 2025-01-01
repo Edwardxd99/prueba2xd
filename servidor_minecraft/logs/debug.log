@@ -2031,3 +2031,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 23:17:21.092] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: false for blockstate: {Name:"eternal_tales:comet_stone_bricks_wall",Properties:{east:"false",north:"false",south:"true",up:"true",waterlogged:"false",west:"false"}}
 [01Jan2025 23:17:21.092] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: false for blockstate: {Name:"eternal_tales:comet_stone_bricks_wall",Properties:{east:"false",north:"false",south:"true",up:"true",waterlogged:"false",west:"false"}}
 [01Jan2025 23:17:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2683.500000, 92.500000, 4198.500000]
+[01Jan2025 23:17:49.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:17:49.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:18:24.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2693.500000, 66.500000, 3991.500000]
+[01Jan2025 23:21:59.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2797, y=34, z=3988} BlockPos{x=2797, y=30, z=3988}
+[01Jan2025 23:21:59.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2797, y=34, z=3988} BlockPos{x=2797, y=30, z=3988}
+[01Jan2025 23:22:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[01Jan2025 23:22:26.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2638.500000, 149.500000, 4307.500000]
+[01Jan2025 23:22:34.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 619.500000, 30.500000, -103.500000]
+[01Jan2025 23:22:49.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:22:49.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:23:26.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2991.500000, 66.500000, 4797.500000]
+[01Jan2025 23:24:13.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2636.500000, 149.500000, 4306.500000]
+[01Jan2025 23:24:20.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[01Jan2025 23:27:40.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[01Jan2025 23:27:47.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -6.500000, 69.500000, 301.500000]
+[01Jan2025 23:27:49.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:27:49.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:27:52.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[01Jan2025 23:28:20.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Mauro17YT using [LA MATA DIOSES]
+[01Jan2025 23:28:34.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[01Jan2025 23:28:43.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -6.500000, 69.500000, 301.500000]
+[01Jan2025 23:28:46.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[01Jan2025 23:32:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 66.500000, 61.500000, 0.500000]
+[01Jan2025 23:32:49.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:32:49.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:34:10.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -146.500000, 53.500000, 247.500000]
+[01Jan2025 23:34:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 33.500000, 55.500000, 137.500000]
+[01Jan2025 23:34:51.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 287.500000, 37.500000, 248.500000]
+[01Jan2025 23:35:01.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 541.500000, 36.500000, 240.500000]
+[01Jan2025 23:36:06.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 344.500000, 29.500000, 149.500000]
+[01Jan2025 23:36:17.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 653.500000, 39.500000, 363.500000]
+[01Jan2025 23:36:27.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 864.500000, 45.500000, 536.500000]
+[01Jan2025 23:37:49.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:37:49.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

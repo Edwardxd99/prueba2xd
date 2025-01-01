@@ -4155,6 +4155,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-01-01 23:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-01-01 23:08:49 +0000"
