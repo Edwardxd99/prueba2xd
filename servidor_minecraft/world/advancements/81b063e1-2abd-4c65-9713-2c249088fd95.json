@@ -4681,6 +4681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-01 22:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-01-01 22:12:00 +0000"
@@ -4702,6 +4708,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-01-01 22:12:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:kill_rock_blaze": {
+    "criteria": {
+      "kill_rock_blaze_0": "2025-01-01 22:20:23 +0000"
     },
     "done": true
   },
