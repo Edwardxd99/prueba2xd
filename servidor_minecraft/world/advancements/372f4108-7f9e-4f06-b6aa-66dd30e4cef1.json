@@ -4197,6 +4197,12 @@
     },
     "done": true
   },
+  "eternal_tales:get_any_quest": {
+    "criteria": {
+      "get_any_quest_0": "2025-01-01 23:55:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2025-01-01 23:07:14 +0000"
