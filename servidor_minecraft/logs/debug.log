@@ -2644,3 +2644,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 01:52:51.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jan2025 01:57:51.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 01:57:51.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 02:02:51.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 02:02:51.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 02:07:51.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 02:07:51.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 02:10:49.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[02Jan2025 02:10:49.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[02Jan2025 02:11:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Jan2025 02:11:18.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jan2025 02:11:18.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jan2025 02:11:18.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jan2025 02:11:18.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jan2025 02:11:18.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:comets
+[02Jan2025 02:11:18.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:unahzaal_multiverse
+[02Jan2025 02:11:18.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jan2025 02:11:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:kingdom_of_amber
+[02Jan2025 02:11:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:purgatorium
+[02Jan2025 02:11:18.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:rayana
+[02Jan2025 02:11:18.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:volcanech
+[02Jan2025 02:11:18.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:gardens_of_eden
+[02Jan2025 02:11:18.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:lands_of_karvat
+[02Jan2025 02:11:18.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:ultimate_world
+[02Jan2025 02:11:18.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jan2025 02:11:18.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 02:11:18.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 02:11:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jan2025 02:11:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (comets): All chunks are saved
+[02Jan2025 02:11:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (unahzaal_multiverse): All chunks are saved
+[02Jan2025 02:11:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jan2025 02:11:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kingdom_of_amber): All chunks are saved
+[02Jan2025 02:11:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (purgatorium): All chunks are saved
+[02Jan2025 02:11:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (rayana): All chunks are saved
+[02Jan2025 02:11:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (volcanech): All chunks are saved
+[02Jan2025 02:11:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gardens_of_eden): All chunks are saved
+[02Jan2025 02:11:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lands_of_karvat): All chunks are saved
+[02Jan2025 02:11:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ultimate_world): All chunks are saved
+[02Jan2025 02:11:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jan2025 02:11:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jan2025 02:11:18.986] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
