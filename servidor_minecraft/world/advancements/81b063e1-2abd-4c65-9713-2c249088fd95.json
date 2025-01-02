@@ -4735,6 +4735,12 @@
     },
     "done": true
   },
+  "eternal_tales:get_divine_pickaxe": {
+    "criteria": {
+      "get_divine_pickaxe_0": "2025-01-02 01:29:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-01 22:12:00 +0000"
