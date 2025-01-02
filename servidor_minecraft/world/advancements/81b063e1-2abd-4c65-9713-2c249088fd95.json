@@ -4687,6 +4687,12 @@
     },
     "done": true
   },
+  "eternal_tales:into_purgatorium": {
+    "criteria": {
+      "into_purgatorium_0": "2025-01-02 01:24:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-01-01 22:12:00 +0000"
