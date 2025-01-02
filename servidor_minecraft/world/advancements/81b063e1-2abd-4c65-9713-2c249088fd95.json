@@ -4711,6 +4711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-02 00:33:38 +0000"
+    },
+    "done": true
+  },
   "eternal_tales:kill_rock_blaze": {
     "criteria": {
       "kill_rock_blaze_0": "2025-01-01 22:20:23 +0000"
