@@ -4882,5 +4882,17 @@
     },
     "done": true
   },
+  "eternal_tales:into_eden": {
+    "criteria": {
+      "into_eden_0": "2025-01-03 21:47:07 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:find_scorched_lands_of_eden_biome": {
+    "criteria": {
+      "find_scorched_lands_of_eden_biome_0": "2025-01-03 21:48:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
