@@ -4681,15 +4681,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+  "enemyexpansion:troll_petrified": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-01-01 22:20:28 +0000"
-    },
-    "done": true
-  },
-  "eternal_tales:into_purgatorium": {
-    "criteria": {
-      "into_purgatorium_0": "2025-01-02 01:24:57 +0000"
+      "troll_petrified_0": "2025-01-01 22:04:12 +0000"
     },
     "done": true
   },
@@ -4714,30 +4708,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-01-01 22:12:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-01-02 00:33:38 +0000"
-    },
-    "done": true
-  },
-  "eternal_tales:kill_rock_blaze": {
-    "criteria": {
-      "kill_rock_blaze_0": "2025-01-01 22:20:23 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-01-02 00:38:49 +0000"
-    },
-    "done": true
-  },
-  "eternal_tales:get_divine_pickaxe": {
-    "criteria": {
-      "get_divine_pickaxe_0": "2025-01-02 01:29:19 +0000"
     },
     "done": true
   },
@@ -4771,12 +4741,6 @@
     },
     "done": true
   },
-  "enemyexpansion:troll_petrified": {
-    "criteria": {
-      "troll_petrified_0": "2025-01-01 22:04:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-01-01 22:12:00 +0000"
@@ -4804,6 +4768,42 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-01 22:12:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:kill_rock_blaze": {
+    "criteria": {
+      "kill_rock_blaze_0": "2025-01-01 22:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-01 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-02 00:33:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-02 00:38:49 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:into_purgatorium": {
+    "criteria": {
+      "into_purgatorium_0": "2025-01-02 01:24:57 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_divine_pickaxe": {
+    "criteria": {
+      "get_divine_pickaxe_0": "2025-01-02 01:29:19 +0000"
     },
     "done": true
   },
