@@ -4858,9 +4858,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "has_spire_armor_trim_smithing_template": "2025-01-03 20:41:13 +0000"
+      "has_prismarine_crystals": "2025-01-03 19:58:40 +0000"
     },
     "done": true
   },
@@ -4870,15 +4870,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
     "criteria": {
-      "has_smithing_trim_template": "2025-01-03 20:41:13 +0000"
+      "has_spire_armor_trim_smithing_template": "2025-01-03 20:41:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_prismarine_crystals": "2025-01-03 19:58:40 +0000"
+      "has_smithing_trim_template": "2025-01-03 20:41:13 +0000"
     },
     "done": true
   },

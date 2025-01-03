@@ -231,3 +231,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 20:38:21.703] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
 [03Jan2025 20:38:24.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.152.183.165:42705] logged in with entity id 6448 at (622.4044660575582, 31.0, -103.201865449456)
 [03Jan2025 20:38:24.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[03Jan2025 21:24:57.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 264.500000, 74.500000, 232.500000]
+[03Jan2025 21:25:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[03Jan2025 21:26:34.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 124.500000, -16.500000, 1612.500000]
+[03Jan2025 21:26:42.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[03Jan2025 21:27:08.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2775.500000, 58.500000, 103.500000]
+[03Jan2025 21:27:11.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1942.500000, 60.500000, -874.500000]
+[03Jan2025 21:27:24.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1995.500000, 57.500000, -1019.500000]
+[03Jan2025 21:27:36.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2770.500000, 226.500000, 113.500000]
+[03Jan2025 21:28:44.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
+[03Jan2025 21:28:44.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[03Jan2025 21:28:44.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[03Jan2025 21:28:44.778] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 21:28:50.960] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[03Jan2025 21:28:52.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:41573] logged in with entity id 14775 at (-2754.6443283142144, 25.61893868343636, 119.54280134591872)
+[03Jan2025 21:28:52.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[03Jan2025 21:28:55.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Jedu13 to Mauro17YT]
+[03Jan2025 21:28:55.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 fell from a high place
+[03Jan2025 21:29:07.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[03Jan2025 21:29:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1792.500000, 57.500000, -1203.500000]
+[03Jan2025 21:29:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2773.500000, 226.500000, 113.500000]
+[03Jan2025 21:32:37.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1619.500000, 58.500000, -1217.500000]
+[03Jan2025 21:33:38.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1456.500000, 59.500000, -1127.500000]
+[03Jan2025 21:33:51.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1449.500000, 62.500000, -1025.500000]
+[03Jan2025 21:34:20.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1277.500000, 58.500000, -1018.500000]
+[03Jan2025 21:34:32.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1234.500000, 58.500000, -1141.500000]
