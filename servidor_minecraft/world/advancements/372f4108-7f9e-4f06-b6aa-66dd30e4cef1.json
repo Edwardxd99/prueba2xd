@@ -4251,5 +4251,17 @@
     },
     "done": true
   },
+  "eternal_tales:get_rune": {
+    "criteria": {
+      "get_rune_0": "2025-01-03 02:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-03 02:36:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
