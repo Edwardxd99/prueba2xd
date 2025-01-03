@@ -4312,5 +4312,11 @@
     },
     "done": true
   },
+  "eternal_tales:kill_nyetet": {
+    "criteria": {
+      "kill_nyetet_0": "2025-01-03 03:51:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
