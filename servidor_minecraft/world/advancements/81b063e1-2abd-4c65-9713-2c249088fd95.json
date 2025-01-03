@@ -4808,6 +4808,12 @@
     },
     "done": true
   },
+  "eternal_tales:kill_egyptian_martyr": {
+    "criteria": {
+      "kill_egyptian_martyr_0": "2025-01-03 03:07:20 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-01-03 02:50:42 +0000"
@@ -4817,6 +4823,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-03 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_gold_coin": {
+    "criteria": {
+      "get_gold_coin_0": "2025-01-03 03:14:35 +0000"
     },
     "done": true
   },

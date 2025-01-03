@@ -1263,3 +1263,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 03:02:15.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 619.500000, 30.500000, -103.500000]
 [03Jan2025 03:02:23.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [03Jan2025 03:04:04.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 619.500000, 30.500000, -103.500000]
+[03Jan2025 03:04:43.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[03Jan2025 03:04:56.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[03Jan2025 03:05:48.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 570.500000, 145.500000, 10.500000]
+[03Jan2025 03:06:05.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 813.500000, 64.500000, 505.500000]
+[03Jan2025 03:06:56.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 770.500000, 65.500000, 771.500000]
+[03Jan2025 03:07:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Ancient Times]
+[03Jan2025 03:07:57.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1656.500000, 71.500000, 1656.500000]
+[03Jan2025 03:08:09.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1679.500000, 65.500000, 1661.500000]
+[03Jan2025 03:08:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1629.500000, 70.500000, 1582.500000]
+[03Jan2025 03:08:35.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1209.500000, 78.500000, 951.500000]
+[03Jan2025 03:09:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1679.500000, 64.500000, 1657.500000]
+[03Jan2025 03:09:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1528.500000, 73.500000, 1618.500000]
+[03Jan2025 03:09:37.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1758.500000, 67.500000, 1789.500000]
+[03Jan2025 03:09:45.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1737.500000, 72.500000, 1929.500000]
+[03Jan2025 03:10:01.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1600.500000, 64.500000, 1885.500000]
+[03Jan2025 03:10:12.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1792.500000, 66.500000, 2074.500000]
+[03Jan2025 03:10:16.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1931.500000, 70.500000, 2021.500000]
+[03Jan2025 03:10:17.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [People Are Strange]
+[03Jan2025 03:10:18.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1725.500000, 70.500000, 3591.500000]
+[03Jan2025 03:10:25.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[03Jan2025 03:11:54.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[03Jan2025 03:12:14.232] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 03:12:14.236] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 03:12:14.336] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 03:12:14.336] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 03:12:20.044] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 03:12:20.045] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 03:12:20.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7447ms or 148 ticks behind
+[03Jan2025 03:12:20.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved too quickly! 1.4199776224877496,0.9025000008940722,-9.989335783357774
+[03Jan2025 03:13:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[03Jan2025 03:14:13.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1209.500000, 78.500000, 951.500000]
+[03Jan2025 03:14:35.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Cash Mashine!]
+[03Jan2025 03:15:06.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
