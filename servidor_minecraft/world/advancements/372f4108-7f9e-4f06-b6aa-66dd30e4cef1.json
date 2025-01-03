@@ -599,6 +599,7 @@
       "cooked_beef": "2024-12-15 22:44:33 +0000",
       "baked_potato": "2024-12-14 16:57:44 +0000",
       "porkchop": "2024-12-23 04:19:14 +0000",
+      "apple": "2025-01-03 04:32:51 +0000",
       "bread": "2024-12-14 17:30:37 +0000",
       "golden_apple": "2024-12-17 21:59:49 +0000",
       "cookie": "2024-12-14 16:56:23 +0000",
@@ -716,6 +717,8 @@
       "minecraft:creeper": "2024-12-14 19:38:27 +0000",
       "minecraft:phantom": "2024-12-23 03:25:10 +0000",
       "minecraft:wither_skeleton": "2024-12-18 18:21:04 +0000",
+      "minecraft:husk": "2025-01-03 04:09:16 +0000",
+      "minecraft:shulker": "2025-01-03 04:16:44 +0000",
       "minecraft:cave_spider": "2024-12-17 23:01:50 +0000",
       "minecraft:piglin": "2024-12-23 22:08:21 +0000",
       "minecraft:stray": "2024-12-15 22:20:09 +0000",
@@ -4247,9 +4250,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-01-03 04:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 04:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-03 03:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-01-03 04:21:04 +0000"
     },
     "done": true
   },
@@ -4268,6 +4289,12 @@
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-01-03 03:57:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-01-03 04:08:41 +0000"
     },
     "done": true
   },
@@ -4301,6 +4328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 04:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-03 03:13:17 +0000"
@@ -4325,6 +4358,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 04:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 04:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-01-03 03:56:45 +0000"
@@ -4340,6 +4385,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-01-03 03:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 04:20:03 +0000"
     },
     "done": true
   },
@@ -4361,9 +4412,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-03 04:16:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-01-03 03:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-03 04:20:03 +0000"
     },
     "done": true
   },

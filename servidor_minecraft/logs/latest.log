@@ -2626,3 +2626,52 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 03:58:06.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [03Jan2025 04:02:46.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [03Jan2025 04:05:34.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 4.500000, 62.500000, 2.500000]
+[03Jan2025 04:07:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -2000.500000, 57.500000, -538.500000]
+[03Jan2025 04:08:20.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1930.500000, 61.500000, -725.500000]
+[03Jan2025 04:08:41.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1916.500000, 214.500000, -864.500000]
+[03Jan2025 04:13:52.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1970.500000, 58.500000, -868.500000]
+[03Jan2025 04:17:28.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
+[03Jan2025 04:17:38.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
+[03Jan2025 04:17:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 124.500000, -16.500000, 1612.500000]
+[03Jan2025 04:17:50.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved too quickly! -20.69462540059274,65.46415937495544,-1611.98733863065
+[03Jan2025 04:19:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has reached the goal [The End... Again...]
+[03Jan2025 04:19:54.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has reached the goal [You Need a Mint]
+[03Jan2025 04:21:04.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[03Jan2025 04:21:04.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [Great View From Up Here]
+[03Jan2025 04:21:41.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -32.500000, 82.500000, 26.500000]
+[03Jan2025 04:22:07.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 33.500000, 94.500000, 27.500000]
+[03Jan2025 04:22:43.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -39.500000, 103.500000, 0.500000]
+[03Jan2025 04:27:31.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 619.500000, 30.500000, -103.500000]
+[03Jan2025 04:34:11.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[03Jan2025 04:34:11.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[03Jan2025 04:34:44.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[03Jan2025 04:34:44.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[03Jan2025 04:34:54.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Jan2025 04:34:54.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Jan2025 04:34:54.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Jan2025 04:34:54.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Jan2025 04:34:54.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Jan2025 04:34:54.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:comets
+[03Jan2025 04:34:54.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:unahzaal_multiverse
+[03Jan2025 04:34:54.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Jan2025 04:34:54.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:kingdom_of_amber
+[03Jan2025 04:34:54.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:purgatorium
+[03Jan2025 04:34:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:rayana
+[03Jan2025 04:34:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:volcanech
+[03Jan2025 04:34:54.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:gardens_of_eden
+[03Jan2025 04:34:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:lands_of_karvat
+[03Jan2025 04:34:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:ultimate_world
+[03Jan2025 04:34:54.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Jan2025 04:34:55.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jan2025 04:34:55.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (comets): All chunks are saved
+[03Jan2025 04:34:55.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (unahzaal_multiverse): All chunks are saved
+[03Jan2025 04:34:55.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jan2025 04:34:55.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kingdom_of_amber): All chunks are saved
+[03Jan2025 04:34:55.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (purgatorium): All chunks are saved
+[03Jan2025 04:34:55.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (rayana): All chunks are saved
+[03Jan2025 04:34:55.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (volcanech): All chunks are saved
+[03Jan2025 04:34:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gardens_of_eden): All chunks are saved
+[03Jan2025 04:34:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lands_of_karvat): All chunks are saved
+[03Jan2025 04:34:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ultimate_world): All chunks are saved
+[03Jan2025 04:34:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jan2025 04:34:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

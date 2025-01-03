@@ -215,6 +215,7 @@
       "cooked_mutton": "2024-12-14 17:35:17 +0000",
       "sweet_berries": "2024-12-14 17:12:56 +0000",
       "cooked_beef": "2024-12-16 17:46:51 +0000",
+      "chorus_fruit": "2025-01-03 04:29:26 +0000",
       "baked_potato": "2024-12-15 21:15:36 +0000",
       "apple": "2024-12-14 17:35:41 +0000",
       "potato": "2024-12-14 17:13:29 +0000",
@@ -4820,6 +4821,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-01-03 04:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-03 02:55:19 +0000"
@@ -4835,6 +4842,12 @@
   "dungeons_arise:find_illager_campsite": {
     "criteria": {
       "location0": "2025-01-03 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-01-03 04:19:18 +0000"
     },
     "done": true
   },
