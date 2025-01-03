@@ -225,3 +225,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 19:34:16.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:45901] logged in with entity id 65 at (591.2724109814652, 30.0, -98.57877679584243)
 [03Jan2025 19:34:16.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
 [03Jan2025 19:34:19.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[03Jan2025 20:28:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
+[03Jan2025 20:28:47.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
