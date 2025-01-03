@@ -4894,5 +4894,11 @@
     },
     "done": true
   },
+  "eternal_tales:get_soulbone": {
+    "criteria": {
+      "get_soulbone_0": "2025-01-03 22:14:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
