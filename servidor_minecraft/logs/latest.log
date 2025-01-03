@@ -227,3 +227,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 19:34:19.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
 [03Jan2025 20:28:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
 [03Jan2025 20:28:47.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
+[03Jan2025 20:34:31.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[03Jan2025 20:38:21.703] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[03Jan2025 20:38:24.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.152.183.165:42705] logged in with entity id 6448 at (622.4044660575582, 31.0, -103.201865449456)
+[03Jan2025 20:38:24.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
