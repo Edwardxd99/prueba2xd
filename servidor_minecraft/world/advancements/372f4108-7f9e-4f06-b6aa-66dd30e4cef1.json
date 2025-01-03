@@ -4083,27 +4083,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_planks": "2025-01-01 23:08:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-01-01 23:07:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-01 23:08:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-01-01 23:08:49 +0000"
+      "has_stone_slab": "2025-01-01 22:38:29 +0000"
     },
     "done": true
   },
@@ -4113,15 +4095,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
+  "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
-      "has_planks": "2025-01-01 23:08:44 +0000"
+      "has_logs": "2025-01-01 23:07:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
+  "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
-      "has_planks": "2025-01-01 23:08:49 +0000"
+      "has_log": "2025-01-01 23:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-01-01 23:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 23:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-01 23:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:08:44 +0000"
     },
     "done": true
   },
@@ -4131,39 +4137,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-01 23:08:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-01-01 23:08:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-01 23:08:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/mangrove_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-01 23:08:44 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_village": {
-    "criteria": {
-      "location0": "2025-01-01 23:23:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-01-01 23:08:49 +0000"
     },
     "done": true
   },
@@ -4185,33 +4161,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-01-01 23:07:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2025-01-01 23:08:44 +0000"
-    },
-    "done": true
-  },
-  "eternal_tales:get_any_quest": {
-    "criteria": {
-      "get_any_quest_0": "2025-01-01 23:55:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-01-01 23:07:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-01-01 23:08:49 +0000"
     },
     "done": true
   },
@@ -4221,27 +4173,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-01-01 23:07:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-01-01 22:38:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-01-01 23:08:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "has_log": "2025-01-01 23:07:51 +0000"
+      "has_planks": "2025-01-01 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-01-01 23:23:41 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_any_quest": {
+    "criteria": {
+      "get_any_quest_0": "2025-01-01 23:55:39 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:into_purgatorium": {
+    "criteria": {
+      "into_purgatorium_0": "2025-01-03 02:05:43 +0000"
     },
     "done": true
   },
