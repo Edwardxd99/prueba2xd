@@ -4809,21 +4809,9 @@
     },
     "done": true
   },
-  "eternal_tales:kill_egyptian_martyr": {
-    "criteria": {
-      "kill_egyptian_martyr_0": "2025-01-03 03:07:20 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-01-03 02:50:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-01-03 04:19:54 +0000"
     },
     "done": true
   },
@@ -4833,9 +4821,9 @@
     },
     "done": true
   },
-  "eternal_tales:get_gold_coin": {
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
-      "get_gold_coin_0": "2025-01-03 03:14:35 +0000"
+      "has_stripped_logs": "2025-01-03 02:55:19 +0000"
     },
     "done": true
   },
@@ -4845,15 +4833,27 @@
     },
     "done": true
   },
+  "eternal_tales:kill_egyptian_martyr": {
+    "criteria": {
+      "kill_egyptian_martyr_0": "2025-01-03 03:07:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_gold_coin": {
+    "criteria": {
+      "get_gold_coin_0": "2025-01-03 03:14:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2025-01-03 04:19:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_stripped_logs": "2025-01-03 02:55:19 +0000"
+      "dragon_breath": "2025-01-03 04:19:54 +0000"
     },
     "done": true
   },
