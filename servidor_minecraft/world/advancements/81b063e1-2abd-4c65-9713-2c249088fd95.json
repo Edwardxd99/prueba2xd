@@ -4894,6 +4894,12 @@
     },
     "done": true
   },
+  "eternal_tales:kill_jaghax": {
+    "criteria": {
+      "kill_jaghax_0": "2025-01-03 22:52:43 +0000"
+    },
+    "done": true
+  },
   "eternal_tales:get_soulbone": {
     "criteria": {
       "get_soulbone_0": "2025-01-03 22:14:49 +0000"

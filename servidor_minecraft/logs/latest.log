@@ -6371,3 +6371,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 22:34:35.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
 [03Jan2025 22:39:54.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 396.500000, 68.500000, 46.500000]
 [03Jan2025 22:39:58.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[03Jan2025 22:47:35.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[03Jan2025 22:48:36.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 662.500000, 78.500000, -157.500000]
+[03Jan2025 22:48:51.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 807.500000, 64.500000, -168.500000]
+[03Jan2025 22:48:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[03Jan2025 22:49:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1794.500000, 111.500000, -1305.500000]
+[03Jan2025 22:49:09.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved too quickly! -1.0,-28.0,4.999951183795929
+[03Jan2025 22:49:22.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[03Jan2025 22:49:58.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[03Jan2025 22:50:09.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1779, y=48, z=-1314} BlockPos{x=-1777, y=47, z=-1316}
+[03Jan2025 22:50:09.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1779, y=48, z=-1314} BlockPos{x=-1777, y=47, z=-1316}
+[03Jan2025 22:50:09.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1779, y=48, z=-1314} BlockPos{x=-1777, y=47, z=-1316}
+[03Jan2025 22:50:12.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1781, y=47, z=-1314} BlockPos{x=-1782, y=47, z=-1310}
+[03Jan2025 22:50:12.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1781, y=47, z=-1314} BlockPos{x=-1782, y=47, z=-1310}
+[03Jan2025 22:51:40.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Sundusa
+[03Jan2025 22:51:45.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[03Jan2025 22:52:43.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Tell me what you want?]
+[03Jan2025 22:53:52.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[03Jan2025 22:54:22.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Jedu13
+[03Jan2025 22:54:30.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[03Jan2025 22:55:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was burnt to a crisp whilst fighting Mauro17YT
+[03Jan2025 22:55:23.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
