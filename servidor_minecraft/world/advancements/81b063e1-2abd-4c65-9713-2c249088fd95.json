@@ -25,6 +25,7 @@
       "minecraft:deep_ocean": "2024-12-16 16:38:24 +0000",
       "minecraft:eroded_badlands": "2024-12-25 23:45:49 +0000",
       "minecraft:frozen_river": "2024-12-14 16:31:57 +0000",
+      "minecraft:cherry_grove": "2025-01-03 23:56:42 +0000",
       "minecraft:windswept_hills": "2024-12-25 01:18:41 +0000",
       "minecraft:bamboo_jungle": "2024-12-25 01:45:53 +0000",
       "minecraft:wooded_badlands": "2024-12-27 02:56:58 +0000",
@@ -54,6 +55,7 @@
       "minecraft:warm_ocean": "2024-12-25 23:53:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-17 20:59:59 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-26 03:37:54 +0000",
+      "minecraft:meadow": "2025-01-03 23:30:24 +0000",
       "minecraft:savanna": "2024-12-23 04:02:50 +0000",
       "minecraft:plains": "2024-12-17 22:25:56 +0000"
     },
@@ -4894,15 +4896,33 @@
     },
     "done": true
   },
+  "eternal_tales:get_soulbone": {
+    "criteria": {
+      "get_soulbone_0": "2025-01-03 22:14:49 +0000"
+    },
+    "done": true
+  },
   "eternal_tales:kill_jaghax": {
     "criteria": {
       "kill_jaghax_0": "2025-01-03 22:52:43 +0000"
     },
     "done": true
   },
-  "eternal_tales:get_soulbone": {
+  "eternal_tales:get_any_sorcery_book": {
     "criteria": {
-      "get_soulbone_0": "2025-01-03 22:14:49 +0000"
+      "get_any_sorcery_book_0": "2025-01-04 00:02:50 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_growing_chest": {
+    "criteria": {
+      "get_growing_chest_0": "2025-01-04 00:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-03 23:52:51 +0000"
     },
     "done": true
   },
