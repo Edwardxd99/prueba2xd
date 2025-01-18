@@ -2544,3 +2544,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jan2025 19:55:31.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jan2025 19:59:17.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Acquire Hardware]
 [18Jan2025 19:59:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Isn't It Iron Pick]
+[18Jan2025 20:00:31.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 20:00:31.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 20:00:36.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was blown up by Creeper
+[18Jan2025 20:04:21.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Spider
+[18Jan2025 20:05:31.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 20:05:31.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 20:05:58.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[18Jan2025 20:05:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[18Jan2025 20:09:39.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[18Jan2025 20:09:39.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
