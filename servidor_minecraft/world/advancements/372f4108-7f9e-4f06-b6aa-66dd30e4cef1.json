@@ -58,9 +58,11 @@
       "minecraft:cherry_grove": "2025-01-18 19:34:42 +0000",
       "minecraft:birch_forest": "2025-01-21 03:42:51 +0000",
       "minecraft:windswept_hills": "2025-01-18 22:13:37 +0000",
+      "minecraft:bamboo_jungle": "2025-01-24 15:51:01 +0000",
       "minecraft:savanna_plateau": "2025-01-18 20:18:09 +0000",
       "minecraft:beach": "2025-01-21 02:27:56 +0000",
       "minecraft:dark_forest": "2025-01-21 03:42:52 +0000",
+      "minecraft:stony_peaks": "2025-01-24 15:52:01 +0000",
       "minecraft:sparse_jungle": "2025-01-21 03:03:15 +0000",
       "minecraft:river": "2025-01-18 19:47:23 +0000",
       "minecraft:lukewarm_ocean": "2025-01-21 02:49:42 +0000",
@@ -2558,6 +2560,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-24 15:47:10 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-01-24 15:52:02 +0000"
     },
     "done": true
   },

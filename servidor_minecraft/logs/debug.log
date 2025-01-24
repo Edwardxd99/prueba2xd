@@ -2482,3 +2482,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Jan2025 15:53:42.119] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mauro17YT was created at position [x:-1104, y:141, z:14043, dim:minecraft:overworld]
 [24Jan2025 15:53:42.149] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
 [24Jan2025 15:53:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1105.500000, 141.500000, 14044.500000]
+[24Jan2025 15:55:43.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 15:55:43.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 16:00:43.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 16:00:43.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 16:02:40.445] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[24Jan2025 16:02:42.083] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[24Jan2025 16:02:42.086] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[24Jan2025 16:02:42.088] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[24Jan2025 16:02:42.091] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[24Jan2025 16:02:42.092] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[24Jan2025 16:02:42.094] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-58, z=-354}
+[24Jan2025 16:02:46.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved too quickly! 1.3953425961801713,-7.139435660974414E-4,10.321055624983273
+[24Jan2025 16:02:46.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved too quickly! 1.452465759409506,-7.277581809717049E-4,10.896244579222184
+[24Jan2025 16:02:46.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved too quickly! 1.5064899569817953,-7.402887072487374E-4,11.471575566092724
+[24Jan2025 16:02:46.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved too quickly! 1.5576764030802224,-7.516556586040224E-4,12.047018708606629
+[24Jan2025 16:04:18.784] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[24Jan2025 16:04:18.785] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[24Jan2025 16:04:18.785] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[24Jan2025 16:04:18.786] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[24Jan2025 16:04:18.786] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[24Jan2025 16:04:18.786] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-58, z=-354}
+[24Jan2025 16:04:18.829] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[24Jan2025 16:04:45.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[24Jan2025 16:05:01.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[24Jan2025 16:05:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT went off with a bang
+[24Jan2025 16:05:14.163] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mauro17YT was created at position [x:-1134, y:77, z:16311, dim:minecraft:overworld]
+[24Jan2025 16:05:14.173] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[24Jan2025 16:05:24.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[24Jan2025 16:05:33.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1133.500000, 77.500000, 16311.500000]
+[24Jan2025 16:05:37.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
