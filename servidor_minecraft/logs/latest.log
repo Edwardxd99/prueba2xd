@@ -321,3 +321,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Jan2025 17:29:15.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/42278, l='ServerLevel[world]', x=225.18, y=80.00, z=225.31] died, message: 'Cleric was slain by Zombie'
 [24Jan2025 17:30:27.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
 [24Jan2025 17:33:39.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Lucho]
+[24Jan2025 17:40:29.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -94.500000, 125.000000, 144.500000]
+[24Jan2025 17:41:42.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1.500000, 129.500000, 232.500000]
+[24Jan2025 17:42:31.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Added tag 'Lucho1' to Lucho]
+[24Jan2025 17:43:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -73.500000, 135.500000, 161.500000]
+[24Jan2025 17:43:32.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[24Jan2025 17:43:32.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[24Jan2025 17:43:33.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[24Jan2025 17:43:33.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[24Jan2025 17:44:05.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Jan2025 17:44:05.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jan2025 17:44:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jan2025 17:44:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jan2025 17:44:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jan2025 17:44:06.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jan2025 17:44:06.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[24Jan2025 17:44:06.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jan2025 17:44:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jan2025 17:44:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jan2025 17:44:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[24Jan2025 17:44:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jan2025 17:44:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
