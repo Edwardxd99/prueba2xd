@@ -229,3 +229,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Jan2025 16:05:24.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
 [24Jan2025 16:05:33.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1133.500000, 77.500000, 16311.500000]
 [24Jan2025 16:05:37.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[24Jan2025 16:07:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has reached the goal [Fortuitous Militia]
+[24Jan2025 16:10:22.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 burned to death
+[24Jan2025 16:10:22.776] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[24Jan2025 16:10:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1117.500000, 63.500000, 16308.500000]
+[24Jan2025 16:14:02.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT went off with a bang
+[24Jan2025 16:14:02.566] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[24Jan2025 16:14:06.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1123.500000, 69.500000, 16312.500000]
+[24Jan2025 16:14:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Cover Me with Diamonds]
