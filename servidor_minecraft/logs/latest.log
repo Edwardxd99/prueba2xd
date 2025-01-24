@@ -286,3 +286,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Jan2025 16:44:49.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [24Jan2025 16:48:12.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
 [24Jan2025 16:49:56.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[24Jan2025 17:02:57.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Lifestealer
+[24Jan2025 17:02:57.761] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[24Jan2025 17:03:04.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -83.500000, 127.500000, 137.500000]
+[24Jan2025 17:03:34.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -88.500000, 125.500000, 130.500000]
+[24Jan2025 17:06:19.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 withered away whilst fighting Lifestealer
+[24Jan2025 17:06:19.518] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[24Jan2025 17:06:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -36.500000, 128.500000, 158.500000]
+[24Jan2025 17:06:36.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 withered away
+[24Jan2025 17:06:36.411] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[24Jan2025 17:06:41.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -47.500000, 124.500000, 139.500000]
