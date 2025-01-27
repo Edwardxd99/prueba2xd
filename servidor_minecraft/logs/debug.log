@@ -2618,3 +2618,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Jan2025 16:27:14.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.80.250.127:34551] logged in with entity id 2086 at (-73.92417563896791, 135.0, 163.93474392914325)
 [27Jan2025 16:27:14.541] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5eacee1e into net.minecraft.network.Connection@71737c04
 [27Jan2025 16:27:14.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[27Jan2025 16:30:25.503] [Worker-Main-22/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Jan2025 16:30:25.637] [Worker-Main-15/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Jan2025 16:30:27.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [We Need to Go Deeper]
+[27Jan2025 16:30:29.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved too quickly! 0.749289779590697,-5.475575911786336,-8.45143249742901
+[27Jan2025 16:30:29.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3979ms or 79 ticks behind
+[27Jan2025 16:30:30.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 16:30:30.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 16:30:35.631] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[27Jan2025 16:30:35.633] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[27Jan2025 16:34:13.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Hot Stuff]
+[27Jan2025 16:35:30.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 16:35:30.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 16:35:30.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -15.500000, 94.500000, 33.500000]

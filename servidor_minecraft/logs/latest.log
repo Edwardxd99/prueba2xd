@@ -201,3 +201,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Jan2025 16:27:12.090] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
 [27Jan2025 16:27:14.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.80.250.127:34551] logged in with entity id 2086 at (-73.92417563896791, 135.0, 163.93474392914325)
 [27Jan2025 16:27:14.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[27Jan2025 16:30:27.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [We Need to Go Deeper]
+[27Jan2025 16:30:29.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved too quickly! 0.749289779590697,-5.475575911786336,-8.45143249742901
+[27Jan2025 16:30:29.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3979ms or 79 ticks behind
+[27Jan2025 16:30:35.631] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[27Jan2025 16:30:35.633] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[27Jan2025 16:34:13.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Hot Stuff]
+[27Jan2025 16:35:30.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -15.500000, 94.500000, 33.500000]
