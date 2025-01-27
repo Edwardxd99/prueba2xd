@@ -195,3 +195,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Jan2025 16:18:03.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
 [27Jan2025 16:19:00.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
 [27Jan2025 16:19:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[27Jan2025 16:26:50.705] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lucho'/521, l='ServerLevel[world]', x=-94.30, y=125.00, z=142.50] died, message: 'Lucho was slain by Jedu13'
+[27Jan2025 16:26:50.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Neighborhood Brawl]
+[27Jan2025 16:26:50.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lucho'/521, l='ServerLevel[world]', x=-94.30, y=125.00, z=142.50] died: Lucho was slain by Jedu13
+[27Jan2025 16:27:12.090] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[27Jan2025 16:27:14.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.80.250.127:34551] logged in with entity id 2086 at (-73.92417563896791, 135.0, 163.93474392914325)
+[27Jan2025 16:27:14.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
