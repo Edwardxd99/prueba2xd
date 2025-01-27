@@ -301,3 +301,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Jan2025 17:22:20.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [27Jan2025 17:29:48.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mauro17YT> zzZZZZZZZZZZZZZzzz
 [27Jan2025 17:37:39.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[27Jan2025 17:41:46.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jedu13> zzzzzz
+[27Jan2025 17:41:50.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jedu13> zzzzzZZZ
+[27Jan2025 17:41:52.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jedu13> ZZZZZZZZZ
+[27Jan2025 17:41:53.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jedu13> zzzzzz
+[27Jan2025 17:50:37.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[27Jan2025 17:50:37.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[27Jan2025 17:50:38.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[27Jan2025 17:50:38.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
