@@ -223,3 +223,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Jan2025 16:48:00.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=42, z=-63} BlockPos{x=37, y=41, z=-47}
 [27Jan2025 16:48:00.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=42, z=-63} BlockPos{x=37, y=41, z=-47}
 [27Jan2025 16:48:00.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=42, z=-63} BlockPos{x=37, y=41, z=-47}
+[27Jan2025 16:51:32.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[27Jan2025 16:51:32.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [The Soul Forge]
+[27Jan2025 16:52:34.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Netherite Monstrosity
+[27Jan2025 16:52:34.585] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[27Jan2025 16:52:34.710] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jan2025 16:52:34.711] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
+[27Jan2025 16:52:34.711] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jan2025 16:52:34.711] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jan2025 16:52:34.711] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jan2025 16:52:59.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Netherite Monstrosity
+[27Jan2025 16:52:59.386] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[27Jan2025 16:55:40.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -16.500000, 94.500000, 34.500000]
+[27Jan2025 16:56:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -88.500000, 125.500000, 130.500000]
+[27Jan2025 16:58:05.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -15.500000, 94.500000, 36.500000]
