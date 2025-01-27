@@ -208,3 +208,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Jan2025 16:30:35.633] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [27Jan2025 16:34:13.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Hot Stuff]
 [27Jan2025 16:35:30.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -15.500000, 94.500000, 33.500000]
+[27Jan2025 16:41:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [We Need to Go Deeper]
+[27Jan2025 16:45:48.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT burned to death
+[27Jan2025 16:45:48.856] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[27Jan2025 16:45:49.051] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jan2025 16:45:49.051] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[27Jan2025 16:45:49.052] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jan2025 16:45:49.052] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jan2025 16:45:49.053] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jan2025 16:46:06.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has reached the goal [A Fast Comeback]
+[27Jan2025 16:46:24.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [The Soul Forge]
+[27Jan2025 16:47:22.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Hidden in the Depths]
+[27Jan2025 16:48:00.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=42, z=-63} BlockPos{x=37, y=41, z=-47}
+[27Jan2025 16:48:00.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=42, z=-63} BlockPos{x=37, y=41, z=-47}
+[27Jan2025 16:48:00.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=42, z=-63} BlockPos{x=37, y=41, z=-47}
+[27Jan2025 16:48:00.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=42, z=-63} BlockPos{x=37, y=41, z=-47}
