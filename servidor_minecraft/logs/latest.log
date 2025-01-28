@@ -442,3 +442,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Jan2025 16:55:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -76.500000, 135.500000, 166.500000]
 [28Jan2025 16:55:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -78.500000, 141.500000, 170.500000]
 [28Jan2025 17:05:38.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 17:08:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -9.500000, 138.500000, 410.500000]
+[28Jan2025 17:09:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -76.500000, 135.500000, 164.500000]
+[28Jan2025 17:09:42.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jedu13) moved wrongly! 0.26640359325169344
+[28Jan2025 17:13:38.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 17:14:53.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 17:15:17.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 62.500000, 63.500000, 1965.500000]
+[28Jan2025 17:15:53.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -76.500000, 118.500000, 170.500000]
