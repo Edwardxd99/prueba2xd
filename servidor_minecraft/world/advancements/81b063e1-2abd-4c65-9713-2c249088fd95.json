@@ -2418,9 +2418,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-27 16:22:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-01-27 16:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-27 16:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-27 16:30:27 +0000"
     },
     "done": true
   },
@@ -2431,9 +2449,9 @@
     },
     "done": false
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "entered_nether": "2025-01-27 16:30:27 +0000"
+      "has_netherrack": "2025-01-27 16:32:38 +0000"
     },
     "done": true
   },
@@ -2446,12 +2464,6 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-27 16:32:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-01-27 17:15:20 +0000"
     },
     "done": true
   },
@@ -2491,33 +2503,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-27 17:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-27 17:15:20 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-27 16:30:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-01-27 17:15:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-01-27 16:32:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-27 16:22:00 +0000"
     },
     "done": true
   },
