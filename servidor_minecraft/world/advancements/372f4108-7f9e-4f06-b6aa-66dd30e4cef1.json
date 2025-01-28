@@ -435,6 +435,7 @@
       "minecraft:piglin_brute": "2025-01-21 03:40:41 +0000",
       "minecraft:creeper": "2025-01-21 02:45:59 +0000",
       "minecraft:wither_skeleton": "2025-01-28 02:42:39 +0000",
+      "minecraft:husk": "2025-01-28 03:53:42 +0000",
       "minecraft:cave_spider": "2025-01-21 03:00:36 +0000",
       "minecraft:piglin": "2025-01-27 16:43:23 +0000",
       "minecraft:silverfish": "2025-01-18 22:15:44 +0000",
@@ -3052,6 +3053,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-01-28 04:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-01-28 04:01:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-01-28 02:46:30 +0000"
@@ -3067,6 +3080,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-01-28 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-01-28 04:01:17 +0000"
     },
     "done": true
   },
@@ -3106,6 +3125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-28 04:01:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-01-28 03:03:38 +0000"
@@ -3139,6 +3164,12 @@
   "legendary_monsters:defeat_withered_abomination": {
     "criteria": {
       "abomination": "2025-01-28 02:54:43 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-01-28 03:57:43 +0000"
     },
     "done": true
   },
@@ -3184,9 +3215,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-01-28 03:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-28 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-28 03:53:47 +0000"
     },
     "done": true
   },
@@ -3307,6 +3350,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-01-28 02:37:14 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-01-28 03:58:12 +0000"
     },
     "done": true
   },
