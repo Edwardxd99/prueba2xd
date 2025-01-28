@@ -216,3 +216,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Jan2025 15:08:56.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Overgrown Colossus
 [28Jan2025 15:08:56.773] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
 [28Jan2025 15:09:01.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1026.500000, 80.500000, 25295.500000]
+[28Jan2025 15:14:47.845] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-412}
+[28Jan2025 15:14:47.846] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-416}
+[28Jan2025 15:16:28.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 15:16:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Wither Skeleton
+[28Jan2025 15:16:58.066] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 15:17:03.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -908.500000, 234.500000, 27055.500000]
+[28Jan2025 15:17:24.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:17:24.288] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:17:24.318] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jan2025 15:17:24.319] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[28Jan2025 15:17:24.319] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jan2025 15:17:24.319] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jan2025 15:17:24.320] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jan2025 15:17:31.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -908.500000, 213.500000, 27011.500000]
+[28Jan2025 15:17:34.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Your First Receptacle]
+[28Jan2025 15:17:34.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:17:34.820] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:17:42.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -910.500000, 213.500000, 27009.500000]
+[28Jan2025 15:18:19.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 burned to death
+[28Jan2025 15:18:19.967] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:18:20.176] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jan2025 15:18:20.177] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 12 is dual wielding: false
+[28Jan2025 15:18:20.177] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jan2025 15:18:20.177] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jan2025 15:18:20.178] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jan2025 15:18:27.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -899.500000, 207.500000, 27045.500000]
+[28Jan2025 15:18:38.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Good Demoman]
+[28Jan2025 15:18:39.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Wither Skeleton
+[28Jan2025 15:18:39.916] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 15:19:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was killed by Potion using magic
+[28Jan2025 15:19:29.417] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:19:35.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -905.500000, 205.500000, 27053.500000]
+[28Jan2025 15:19:42.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Wither Skeleton
+[28Jan2025 15:19:42.715] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 15:19:48.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -909.500000, 220.500000, 27029.500000]
+[28Jan2025 15:20:03.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 withered away whilst fighting rurch
+[28Jan2025 15:20:03.866] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:20:09.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -905.500000, 204.500000, 27049.500000]
+[28Jan2025 15:20:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:20:44.468] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:20:49.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -906.500000, 210.500000, 27034.500000]
+[28Jan2025 15:21:45.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Wither Skeleton
+[28Jan2025 15:21:45.877] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 15:22:08.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT withered away
+[28Jan2025 15:22:08.067] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 15:22:13.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -906.500000, 213.500000, 27021.500000]
+[28Jan2025 15:23:08.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [The Wind Darkening]
+[28Jan2025 15:23:19.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Slime
+[28Jan2025 15:23:19.768] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 15:23:19.781] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jan2025 15:23:19.781] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[28Jan2025 15:23:19.781] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jan2025 15:23:19.782] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jan2025 15:23:19.782] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[28Jan2025 15:23:27.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:23:27.515] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:23:32.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -920.500000, 208.500000, 27027.500000]
+[28Jan2025 15:23:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was killed by Potion using magic
+[28Jan2025 15:23:59.717] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:24:03.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -921.500000, 208.500000, 27025.500000]

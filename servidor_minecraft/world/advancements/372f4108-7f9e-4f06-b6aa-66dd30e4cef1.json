@@ -434,6 +434,7 @@
       "minecraft:spider": "2025-01-18 20:48:28 +0000",
       "minecraft:piglin_brute": "2025-01-21 03:40:41 +0000",
       "minecraft:creeper": "2025-01-21 02:45:59 +0000",
+      "minecraft:slime": "2025-01-28 15:23:27 +0000",
       "minecraft:phantom": "2025-01-28 04:15:31 +0000",
       "minecraft:wither_skeleton": "2025-01-28 02:42:39 +0000",
       "minecraft:husk": "2025-01-28 03:53:42 +0000",
@@ -466,6 +467,7 @@
       "cooked_beef": "2025-01-18 19:46:23 +0000",
       "baked_potato": "2025-01-28 02:28:25 +0000",
       "bread": "2025-01-18 20:17:35 +0000",
+      "golden_apple": "2025-01-28 15:20:49 +0000",
       "carrot": "2025-01-24 15:41:31 +0000"
     },
     "done": false
@@ -3498,6 +3500,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-28 15:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-28 15:22:02 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-01-28 15:00:49 +0000"
@@ -3510,9 +3524,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-28 15:20:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-01-28 15:17:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-01-28 15:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-28 15:22:02 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-28 15:20:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-01-28 15:23:08 +0000"
     },
     "done": true
   },
