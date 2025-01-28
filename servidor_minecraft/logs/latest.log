@@ -340,3 +340,103 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Jan2025 15:43:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was doomed to fall
 [28Jan2025 15:43:08.622] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
 [28Jan2025 15:43:14.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -855.500000, 64.500000, 27993.500000]
+[28Jan2025 15:44:59.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@196b878a[id=<null>,name=Mauro17YT,properties={},legacy=false] (/127.5.250.239:54811) lost connection: Disconnected
+[28Jan2025 15:47:35.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[28Jan2025 15:50:28.459] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[28Jan2025 15:50:30.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.5.250.239:57963] logged in with entity id 37825 at (-857.9241010907397, 194.6458239276155, 28001.845049582316)
+[28Jan2025 15:50:30.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[28Jan2025 15:50:38.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT was kicked for floating too long!
+[28Jan2025 15:50:38.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Flying is not enabled on this server
+[28Jan2025 15:50:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[28Jan2025 15:50:47.971] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[28Jan2025 15:50:50.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.5.250.239:35967] logged in with entity id 38037 at (-857.9241010907397, 194.6458239276155, 28001.845049582316)
+[28Jan2025 15:50:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[28Jan2025 15:50:57.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT was kicked for floating too long!
+[28Jan2025 15:50:57.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Flying is not enabled on this server
+[28Jan2025 15:50:57.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[28Jan2025 15:51:02.166] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[28Jan2025 15:51:04.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.5.250.239:56443] logged in with entity id 38275 at (-854.1814246422914, 157.03660952233383, 27999.745161323488)
+[28Jan2025 15:51:04.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[28Jan2025 15:51:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Mauro17YT to Jedu13]
+[28Jan2025 15:51:44.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 577.500000, 68.500000, -171.500000]
+[28Jan2025 15:52:16.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 797.500000, 71.500000, -54.500000]
+[28Jan2025 15:52:24.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -77.500000, 141.500000, 168.500000]
+[28Jan2025 15:55:46.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 0.29291895902224496
+[28Jan2025 15:55:46.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 0.368860710424201
+[28Jan2025 15:55:47.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 0.33489753895241847
+[28Jan2025 15:55:47.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 0.48653898061479595
+[28Jan2025 15:55:47.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 0.6439883870164067
+[28Jan2025 15:55:47.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 0.8061048067704633
+[28Jan2025 15:55:47.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 0.9721923677572022
+[28Jan2025 15:55:47.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 1.141773946702756
+[28Jan2025 15:56:00.659] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[28Jan2025 15:56:00.660] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[28Jan2025 15:56:00.660] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[28Jan2025 15:56:00.661] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[28Jan2025 15:56:00.661] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[28Jan2025 15:56:00.661] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[28Jan2025 15:56:00.661] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[28Jan2025 15:56:00.702] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[28Jan2025 15:56:00.703] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[28Jan2025 15:56:00.703] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[28Jan2025 15:56:00.703] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[28Jan2025 15:56:17.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[28Jan2025 15:59:09.179] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-412}
+[28Jan2025 15:59:09.179] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-416}
+[28Jan2025 15:59:14.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [You Are A Pirate]
+[28Jan2025 16:02:29.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[28Jan2025 16:04:57.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -101.500000, 98.500000, 244.500000]
+[28Jan2025 16:05:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -79.500000, 141.500000, 164.500000]
+[28Jan2025 16:11:37.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 16:12:27.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 622.500000, 47.500000, 2270.500000]
+[28Jan2025 16:13:44.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 770.500000, 45.500000, 2219.500000]
+[28Jan2025 16:14:41.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 842.500000, 39.500000, 2320.500000]
+[28Jan2025 16:15:38.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 919.500000, 48.500000, 2277.500000]
+[28Jan2025 16:19:05.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1071.500000, 39.500000, 2399.500000]
+[28Jan2025 16:21:07.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1102.500000, 35.500000, 2515.500000]
+[28Jan2025 16:21:36.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1152.500000, 36.500000, 2576.500000]
+[28Jan2025 16:21:58.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1161.500000, 37.500000, 2664.500000]
+[28Jan2025 16:22:08.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1102.500000, 37.500000, 2795.500000]
+[28Jan2025 16:22:11.890] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jan2025 16:22:11.890] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jan2025 16:22:25.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -15.500000, 94.500000, 36.500000]
+[28Jan2025 16:22:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -77.500000, 141.500000, 167.500000]
+[28Jan2025 16:25:08.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Timed out
+[28Jan2025 16:25:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[28Jan2025 16:25:25.208] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[28Jan2025 16:25:27.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.80.250.127:55165] logged in with entity id 61460 at (-79.73010889004937, 135.0, 180.42159359382387)
+[28Jan2025 16:25:27.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[28Jan2025 16:25:42.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Enchanter]
+[28Jan2025 16:27:26.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1109.500000, 38.500000, 2802.500000]
+[28Jan2025 16:28:05.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 949.500000, 40.500000, 2923.500000]
+[28Jan2025 16:28:42.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 979.500000, 39.500000, 3026.500000]
+[28Jan2025 16:33:28.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1058.500000, 40.500000, 3128.500000]
+[28Jan2025 16:34:35.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1048.500000, 48.500000, 3170.500000]
+[28Jan2025 16:34:43.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1153.500000, 34.500000, 3274.500000]
+[28Jan2025 16:34:55.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1108.500000, 38.500000, 3375.500000]
+[28Jan2025 16:35:31.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1040.500000, 38.500000, 3399.500000]
+[28Jan2025 16:35:40.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1040.500000, 39.500000, 3520.500000]
+[28Jan2025 16:35:53.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1083.500000, 40.500000, 3647.500000]
+[28Jan2025 16:36:01.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1207.500000, 35.500000, 3758.500000]
+[28Jan2025 16:36:14.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1258.500000, 35.500000, 3862.500000]
+[28Jan2025 16:36:23.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1246.500000, 36.500000, 3958.500000]
+[28Jan2025 16:37:13.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1315.500000, 48.500000, 3968.500000]
+[28Jan2025 16:37:23.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1353.500000, 34.500000, 4098.500000]
+[28Jan2025 16:37:27.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1328.500000, 34.500000, 4201.500000]
+[28Jan2025 16:37:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1234.500000, 41.500000, 4257.500000]
+[28Jan2025 16:39:32.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1242.500000, 69.500000, 4269.500000]
+[28Jan2025 16:42:03.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -15.500000, 94.500000, 36.500000]
+[28Jan2025 16:42:15.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -77.500000, 118.500000, 171.500000]
+[28Jan2025 16:42:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -88.500000, 125.500000, 130.500000]
+[28Jan2025 16:45:01.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 16:45:09.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 16:47:15.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 0.43781708911569694
+[28Jan2025 16:47:15.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mauro17YT) moved wrongly! 0.3165031807780565
+[28Jan2025 16:47:15.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mauro17YT) moved wrongly! 0.686383989581941
+[28Jan2025 16:47:15.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mauro17YT) moved wrongly! 0.686383989581941
+[28Jan2025 16:47:15.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Jedu13) moved wrongly! 0.6128753542549816
+[28Jan2025 16:47:59.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 16:48:07.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 16:48:25.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -77.500000, 141.500000, 167.500000]
+[28Jan2025 16:52:29.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 16:55:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -76.500000, 135.500000, 166.500000]

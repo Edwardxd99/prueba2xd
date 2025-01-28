@@ -62,6 +62,7 @@
       "minecraft:beach": "2025-01-18 22:15:14 +0000",
       "minecraft:dark_forest": "2025-01-21 03:42:52 +0000",
       "minecraft:stony_peaks": "2025-01-24 15:52:02 +0000",
+      "minecraft:mangrove_swamp": "2025-01-28 16:00:37 +0000",
       "minecraft:sparse_jungle": "2025-01-21 03:07:22 +0000",
       "minecraft:river": "2025-01-18 21:15:05 +0000",
       "minecraft:lukewarm_ocean": "2025-01-21 02:49:42 +0000",
@@ -74,6 +75,7 @@
       "minecraft:lush_caves": "2025-01-21 03:27:32 +0000",
       "minecraft:deep_cold_ocean": "2025-01-21 03:43:25 +0000",
       "minecraft:frozen_ocean": "2025-01-21 03:44:23 +0000",
+      "minecraft:desert": "2025-01-28 16:00:11 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-21 03:44:41 +0000",
       "minecraft:jungle": "2025-01-21 03:11:11 +0000",
       "minecraft:ocean": "2025-01-21 02:49:10 +0000",
@@ -2815,6 +2817,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-01-28 15:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-28 15:41:21 +0000"
@@ -2836,6 +2844,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-28 15:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-28 15:55:00 +0000"
     },
     "done": true
   },
@@ -2890,6 +2904,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-01-28 15:37:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-01-28 15:47:34 +0000"
     },
     "done": true
   },
