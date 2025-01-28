@@ -204,3 +204,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Jan2025 02:29:44.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 81.500000, 37.500000, 53.500000]
 [28Jan2025 02:30:04.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 272.500000, 25.500000, 196.500000]
 [28Jan2025 02:31:25.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -15.500000, 94.500000, 36.500000]
+[28Jan2025 02:31:58.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 33.500000, 93.500000, 189.500000]
+[28Jan2025 02:32:02.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[28Jan2025 02:32:09.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 212.500000, 72.500000, -124.500000]
+[28Jan2025 02:32:46.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 150.500000, 89.500000, 292.500000]
+[28Jan2025 02:33:13.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 280.500000, 80.500000, 355.500000]
+[28Jan2025 02:33:14.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [A Terrible Fortress]
+[28Jan2025 02:33:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[28Jan2025 02:34:05.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [A Voltanic Place]
+[28Jan2025 02:34:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [A Voltanic Place]
+[28Jan2025 02:34:33.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -16.500000, 94.500000, 34.500000]
+[28Jan2025 02:34:38.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was burnt to a crisp whilst fighting Lava Eater
+[28Jan2025 02:34:38.348] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 02:34:38.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has reached the goal [Strong or Careful]
+[28Jan2025 02:34:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 burned to death
+[28Jan2025 02:34:38.679] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 02:34:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 225.500000, 27.500000, -160.500000]
+[28Jan2025 02:35:02.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT tried to swim in lava to escape Lava Eater
+[28Jan2025 02:35:02.077] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 02:35:22.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 225.500000, 28.500000, -161.500000]
+[28Jan2025 02:35:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[28Jan2025 02:35:42.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -16.500000, 94.500000, 34.500000]
+[28Jan2025 02:35:54.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 244.500000, 34.500000, -152.500000]
+[28Jan2025 02:36:01.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 220.500000, 33.500000, -188.500000]
+[28Jan2025 02:36:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 213.500000, 33.500000, -176.500000]
+[28Jan2025 02:36:17.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 216.500000, 33.500000, -173.500000]
+[28Jan2025 02:36:23.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 90.500000, 94.500000, 173.500000]
+[28Jan2025 02:37:00.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 280.500000, 80.500000, 353.500000]
+[28Jan2025 02:37:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Into Fire]
+[28Jan2025 02:38:22.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 193.500000, 71.500000, 83.500000]
+[28Jan2025 02:40:34.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[28Jan2025 02:40:34.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[28Jan2025 02:40:40.771] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[28Jan2025 02:40:42.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:52027] logged in with entity id 12561 at (180.38277081912693, 73.0, 92.71385636938835)
+[28Jan2025 02:40:42.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[28Jan2025 02:41:31.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -16.500000, 94.500000, 34.500000]
+[28Jan2025 02:41:46.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -88.500000, 125.500000, 130.500000]

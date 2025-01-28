@@ -460,6 +460,7 @@
       "cooked_porkchop": "2025-01-18 19:44:19 +0000",
       "cooked_mutton": "2025-01-18 21:57:06 +0000",
       "cooked_beef": "2025-01-18 19:46:23 +0000",
+      "baked_potato": "2025-01-28 02:28:25 +0000",
       "bread": "2025-01-18 20:17:35 +0000",
       "carrot": "2025-01-24 15:41:31 +0000"
     },
@@ -2711,7 +2712,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-01-27 16:41:27 +0000"
+      "minecraft:crimson_forest": "2025-01-27 16:41:27 +0000",
+      "minecraft:nether_wastes": "2025-01-28 02:30:05 +0000",
+      "minecraft:warped_forest": "2025-01-28 02:33:14 +0000"
     },
     "done": false
   },
@@ -3042,6 +3045,66 @@
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2025-01-27 17:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-28 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-01-28 02:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-28 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-28 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-28 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-28 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-28 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-28 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-28 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-28 02:33:14 +0000"
     },
     "done": true
   },
