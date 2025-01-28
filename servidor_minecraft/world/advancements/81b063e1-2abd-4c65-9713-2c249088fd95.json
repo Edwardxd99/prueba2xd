@@ -2445,7 +2445,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-01-27 16:30:29 +0000",
-      "minecraft:nether_wastes": "2025-01-27 16:44:39 +0000"
+      "minecraft:nether_wastes": "2025-01-27 16:44:39 +0000",
+      "minecraft:warped_forest": "2025-01-28 02:48:05 +0000"
     },
     "done": false
   },
@@ -2521,9 +2522,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-28 02:19:27 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_lava_eater": {
     "criteria": {
       "lava_eater": "2025-01-28 02:34:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-28 02:34:38 +0000"
     },
     "done": true
   },
@@ -2533,21 +2546,75 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-28 02:19:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-01-28 02:36:34 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "coded_trigger": "2025-01-28 02:34:38 +0000"
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-28 02:42:44 +0000"
     },
     "done": true
   },
