@@ -527,6 +527,7 @@
       "minecraft:vindicator": "2025-01-21 03:47:47 +0000",
       "minecraft:spider": "2025-01-18 19:59:45 +0000",
       "minecraft:creeper": "2025-01-18 21:41:29 +0000",
+      "minecraft:wither_skeleton": "2025-01-28 04:10:25 +0000",
       "minecraft:husk": "2025-01-21 04:13:12 +0000",
       "minecraft:cave_spider": "2025-01-21 03:04:25 +0000",
       "minecraft:silverfish": "2025-01-21 03:54:26 +0000",
@@ -2566,9 +2567,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-28 04:04:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-28 04:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-28 04:04:15 +0000"
     },
     "done": true
   },
@@ -2608,6 +2627,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-01-28 04:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-28 02:42:44 +0000"
@@ -2623,6 +2648,12 @@
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2025-01-28 03:11:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-28 04:10:39 +0000"
     },
     "done": true
   },
