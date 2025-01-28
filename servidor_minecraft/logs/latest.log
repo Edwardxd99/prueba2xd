@@ -247,3 +247,71 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Jan2025 02:47:33.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 357.500000, 64.500000, -333.500000]
 [28Jan2025 02:50:32.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 175.500000, 48.500000, 477.500000]
 [28Jan2025 02:51:07.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 434.500000, 61.500000, -454.500000]
+[28Jan2025 02:52:07.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [The Soul Fortress]
+[28Jan2025 02:52:19.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Teber
+[28Jan2025 02:52:19.178] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 02:52:21.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Withered Abomination
+[28Jan2025 02:52:21.053] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 02:52:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Withered Abomination
+[28Jan2025 02:52:40.796] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jan2025 02:52:40.797] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[28Jan2025 02:52:40.797] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jan2025 02:52:40.798] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jan2025 02:52:40.798] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jan2025 02:52:40.803] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 02:52:45.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 421.500000, 65.500000, -467.500000]
+[28Jan2025 02:52:57.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 148.500000, 49.500000, 495.500000]
+[28Jan2025 02:53:10.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT withered away whilst fighting Withered Abomination
+[28Jan2025 02:53:10.174] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 02:53:27.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Withered Abomination
+[28Jan2025 02:53:27.173] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jan2025 02:53:27.174] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[28Jan2025 02:53:27.174] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jan2025 02:53:27.174] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jan2025 02:53:27.175] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[28Jan2025 02:53:27.178] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 02:53:46.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 168.500000, 43.500000, 476.500000]
+[28Jan2025 02:53:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Withered Abomination
+[28Jan2025 02:53:58.425] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 02:54:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Withered Abomination
+[28Jan2025 02:54:13.378] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 02:54:34.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 164.500000, 38.500000, 486.500000]
+[28Jan2025 02:54:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [The Soul Eater]
+[28Jan2025 02:58:45.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 307.500000, 51.500000, -538.500000]
+[28Jan2025 02:59:11.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was burnt to a crisp whilst fighting Lava Eater
+[28Jan2025 02:59:11.775] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 02:59:40.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -16.500000, 94.500000, 34.500000]
+[28Jan2025 02:59:57.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -144.500000, 94.500000, -68.500000]
+[28Jan2025 03:00:35.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 87.500000, 45.500000, 482.500000]
+[28Jan2025 03:01:14.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 81.500000, 45.500000, 460.500000]
+[28Jan2025 03:01:33.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 21.500000, 43.500000, 592.500000]
+[28Jan2025 03:02:15.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -17.500000, 41.500000, 721.500000]
+[28Jan2025 03:02:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -124.500000, 33.500000, 831.500000]
+[28Jan2025 03:02:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -121.500000, 36.500000, 937.500000]
+[28Jan2025 03:02:40.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -79.500000, 34.500000, 1011.500000]
+[28Jan2025 03:03:11.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -137.500000, 66.500000, 966.500000]
+[28Jan2025 03:03:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -269.500000, 68.500000, 925.500000]
+[28Jan2025 03:06:41.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -39.500000, 66.500000, -218.500000]
+[28Jan2025 03:06:43.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -318.500000, 59.500000, 915.500000]
+[28Jan2025 03:06:50.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -355.500000, 48.500000, 858.500000]
+[28Jan2025 03:06:57.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Lava Eater
+[28Jan2025 03:06:57.339] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 03:07:15.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -349.500000, 48.500000, 851.500000]
+[28Jan2025 03:07:24.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -330.500000, 43.500000, 774.500000]
+[28Jan2025 03:09:19.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -87.500000, 57.500000, 1019.500000]
+[28Jan2025 03:09:31.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 21.500000, 52.500000, 1097.500000]
+[28Jan2025 03:09:32.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [Hot Tourist Destinations]
+[28Jan2025 03:09:41.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 97.500000, 47.500000, 1219.500000]
+[28Jan2025 03:09:51.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -26.500000, 38.500000, 1336.500000]
+[28Jan2025 03:09:53.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -16.500000, 94.500000, 34.500000]
+[28Jan2025 03:10:06.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -77.500000, 135.500000, 165.500000]
+[28Jan2025 03:10:25.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 103.500000, 38.500000, 1439.500000]
+[28Jan2025 03:11:25.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[28Jan2025 03:11:26.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [The Soul Fortress]
+[28Jan2025 03:11:27.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 96.500000, 33.500000, 1470.500000]
+[28Jan2025 03:11:32.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 82.500000, 50.500000, 1400.500000]
+[28Jan2025 03:11:42.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 109.500000, 38.500000, 1444.500000]
+[28Jan2025 03:11:42.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 withered away whilst fighting Withered Abomination
+[28Jan2025 03:11:42.917] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 03:11:52.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 213.500000, 37.500000, 1560.500000]
+[28Jan2025 03:12:04.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 82.500000, 50.500000, 1397.500000]

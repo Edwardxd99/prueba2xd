@@ -2716,9 +2716,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-27 16:41:27 +0000",
       "minecraft:nether_wastes": "2025-01-28 02:30:05 +0000",
+      "minecraft:soul_sand_valley": "2025-01-28 03:01:42 +0000",
+      "minecraft:basalt_deltas": "2025-01-28 03:09:32 +0000",
       "minecraft:warped_forest": "2025-01-28 02:33:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
@@ -3104,6 +3106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-28 03:03:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-01-28 02:46:30 +0000"
@@ -3125,6 +3133,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-28 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-01-28 02:54:43 +0000"
     },
     "done": true
   },
@@ -3194,6 +3208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-28 03:03:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-01-28 02:47:01 +0000"
@@ -3245,6 +3265,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-01-28 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-01-28 02:52:07 +0000"
     },
     "done": true
   },

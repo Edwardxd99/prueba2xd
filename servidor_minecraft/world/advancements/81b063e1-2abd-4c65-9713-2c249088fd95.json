@@ -522,6 +522,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-24 16:05:07 +0000",
       "minecraft:skeleton": "2025-01-18 20:22:55 +0000",
+      "minecraft:hoglin": "2025-01-28 03:04:48 +0000",
       "minecraft:vindicator": "2025-01-21 03:47:47 +0000",
       "minecraft:spider": "2025-01-18 19:59:45 +0000",
       "minecraft:creeper": "2025-01-18 21:41:29 +0000",
@@ -2615,6 +2616,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-28 02:42:44 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-01-28 03:11:26 +0000"
     },
     "done": true
   },
