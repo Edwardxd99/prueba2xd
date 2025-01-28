@@ -2587,3 +2587,89 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Jan2025 15:24:03.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -921.500000, 208.500000, 27025.500000]
 [28Jan2025 15:24:13.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jan2025 15:24:13.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 15:25:01.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 withered away whilst fighting Wither Skeleton
+[28Jan2025 15:25:01.566] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-904, y:204, z:27035, dim:minecraft:overworld]
+[28Jan2025 15:25:01.570] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:25:09.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -902.500000, 204.500000, 27036.500000]
+[28Jan2025 15:25:29.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 withered away whilst fighting Wither Skeleton
+[28Jan2025 15:25:29.563] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-922, y:204, z:27034, dim:minecraft:overworld]
+[28Jan2025 15:25:29.565] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:25:35.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -922.500000, 204.500000, 27034.500000]
+[28Jan2025 15:26:34.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[28Jan2025 15:27:17.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[28Jan2025 15:28:23.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 15:29:13.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 15:29:13.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 15:29:26.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[28Jan2025 15:30:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[28Jan2025 15:34:13.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 15:34:13.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 15:34:56.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[28Jan2025 15:35:12.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[28Jan2025 15:35:23.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[28Jan2025 15:36:35.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Spider
+[28Jan2025 15:36:35.560] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mauro17YT was created at position [x:-853, y:213, z:27986, dim:minecraft:overworld]
+[28Jan2025 15:36:35.565] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[28Jan2025 15:36:41.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -852.500000, 213.500000, 27987.500000]
+[28Jan2025 15:37:24.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:37:24.965] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-809, y:227, z:27982, dim:minecraft:overworld]
+[28Jan2025 15:37:24.970] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jan2025 15:37:24.970] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 20 is dual wielding: false
+[28Jan2025 15:37:24.970] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jan2025 15:37:24.970] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jan2025 15:37:24.971] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jan2025 15:37:24.971] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:37:30.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -808.500000, 227.500000, 27982.500000]
+[28Jan2025 15:37:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:37:37.513] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-808, y:227, z:27982, dim:minecraft:overworld]
+[28Jan2025 15:37:37.521] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:37:37.565] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jan2025 15:37:37.565] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[28Jan2025 15:37:37.565] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jan2025 15:37:37.565] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jan2025 15:37:37.566] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jan2025 15:37:42.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -808.500000, 227.500000, 27982.500000]
+[28Jan2025 15:37:45.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:37:45.961] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-808, y:227, z:27983, dim:minecraft:overworld]
+[28Jan2025 15:37:45.965] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:37:50.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -807.500000, 227.500000, 27982.500000]
+[28Jan2025 15:37:56.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Spooky Scary Skeleton]
+[28Jan2025 15:38:00.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:38:00.861] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-809, y:227, z:27982, dim:minecraft:overworld]
+[28Jan2025 15:38:00.868] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:38:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -808.500000, 227.500000, 27982.500000]
+[28Jan2025 15:38:23.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:38:23.162] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-803, y:228, z:27987, dim:minecraft:overworld]
+[28Jan2025 15:38:23.167] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:38:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -799.500000, 228.500000, 27983.500000]
+[28Jan2025 15:39:13.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 15:39:13.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 15:40:37.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:40:37.664] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-847, y:208, z:27978, dim:minecraft:overworld]
+[28Jan2025 15:40:37.672] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:40:42.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -847.500000, 208.500000, 27978.500000]
+[28Jan2025 15:40:48.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:40:48.909] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-844, y:208, z:27978, dim:minecraft:overworld]
+[28Jan2025 15:40:48.916] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:40:52.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -843.500000, 208.500000, 27979.500000]
+[28Jan2025 15:41:48.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was killed by Potion using magic
+[28Jan2025 15:41:48.412] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-849, y:208, z:27994, dim:minecraft:overworld]
+[28Jan2025 15:41:48.416] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:41:54.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -848.500000, 208.500000, 27994.500000]
+[28Jan2025 15:42:02.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has reached the goal [A self-respecting Soul]
+[28Jan2025 15:42:48.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[28Jan2025 15:42:48.357] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-814, y:206, z:27983, dim:minecraft:overworld]
+[28Jan2025 15:42:48.368] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:42:53.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -813.500000, 206.500000, 27983.500000]
+[28Jan2025 15:43:04.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[28Jan2025 15:43:05.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT was kicked for floating too long!
+[28Jan2025 15:43:05.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[28Jan2025 15:43:05.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[28Jan2025 15:43:05.162] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jan2025 15:43:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was doomed to fall
+[28Jan2025 15:43:08.622] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-856, y:65, z:27994, dim:minecraft:overworld]
+[28Jan2025 15:43:08.622] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[28Jan2025 15:43:14.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -855.500000, 64.500000, 27993.500000]
+[28Jan2025 15:44:13.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 15:44:13.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 15:44:29.569] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 28 messages to dispatch.
