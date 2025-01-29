@@ -538,6 +538,7 @@
       "minecraft:wither_skeleton": "2025-01-28 04:10:25 +0000",
       "minecraft:husk": "2025-01-21 04:13:12 +0000",
       "minecraft:ender_dragon": "2025-01-29 22:31:47 +0000",
+      "minecraft:shulker": "2025-01-29 22:36:52 +0000",
       "minecraft:cave_spider": "2025-01-21 03:04:25 +0000",
       "minecraft:silverfish": "2025-01-21 03:54:26 +0000",
       "minecraft:enderman": "2025-01-27 17:42:06 +0000",
@@ -3117,21 +3118,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_egg": "2025-01-29 22:12:38 +0000"
+      "fortress": "2025-01-29 21:45:41 +0000"
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "killed_dragon": "2025-01-29 22:31:47 +0000"
+      "blaze_rod": "2025-01-29 21:48:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_stone_bricks": "2025-01-29 22:01:26 +0000"
+      "has_blaze_rod": "2025-01-29 21:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-29 21:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-29 21:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-29 21:53:16 +0000"
     },
     "done": true
   },
@@ -3141,9 +3160,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "has_end_stone": "2025-01-29 22:18:17 +0000"
+      "has_blaze_powder": "2025-01-29 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-29 22:01:26 +0000"
     },
     "done": true
   },
@@ -3159,27 +3190,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-01-29 21:53:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-01-29 22:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-01-29 21:48:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-01-29 22:18:17 +0000"
     },
     "done": true
   },
@@ -3189,57 +3202,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-29 22:01:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-01-29 22:19:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-29 22:14:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-29 22:01:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-29 21:57:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-29 22:01:26 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:pieceof_chaos": {
-    "criteria": {
-      "pieceof_chaos_0": "2025-01-29 22:12:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-29 22:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-29 22:01:28 +0000"
     },
     "done": true
   },
@@ -3255,33 +3226,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
-      "has_end_stone": "2025-01-29 22:18:17 +0000"
+      "has_mossy_stone_bricks": "2025-01-29 22:01:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
-      "has_blaze_powder": "2025-01-29 21:57:10 +0000"
+      "has_mossy_stone_bricks": "2025-01-29 22:01:28 +0000"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
-      "in_stronghold": "2025-01-29 22:01:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-29 21:48:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-01-29 22:18:00 +0000"
+      "has_mossy_stone_bricks": "2025-01-29 22:01:28 +0000"
     },
     "done": true
   },
@@ -3291,15 +3250,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-01-29 21:53:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-29 22:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-29 22:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-29 22:01:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2025-01-29 22:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-29 22:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-29 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-29 22:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-29 22:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-29 22:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-29 22:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-29 22:18:17 +0000"
     },
     "done": true
   },
@@ -3315,27 +3328,51 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "fortress": "2025-01-29 21:45:41 +0000"
+      "dragon_breath": "2025-01-29 22:19:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "has_blaze_rod": "2025-01-29 21:48:05 +0000"
+      "killed_dragon": "2025-01-29 22:31:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+  "minecraft:end/find_end_city": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-01-29 22:01:28 +0000"
+      "in_city": "2025-01-29 22:36:35 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "entered_end": "2025-01-29 22:18:00 +0000"
+      "elytra": "2025-01-29 22:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-29 22:37:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-01-29 22:44:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-29 22:43:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-29 22:42:50 +0000"
     },
     "done": true
   },

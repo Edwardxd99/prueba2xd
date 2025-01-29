@@ -288,3 +288,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Jan2025 22:32:58.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 577.500000, 68.500000, -171.500000]
 [29Jan2025 22:33:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -79.500000, 141.500000, 165.500000]
 [29Jan2025 22:33:07.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1600.500000, 42.500000, 1076.500000]
+[29Jan2025 22:36:35.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [The City at the End of the Game]
+[29Jan2025 22:36:56.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has reached the goal [Sky's the Limit]
+[29Jan2025 22:37:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Local Brewery]
+[29Jan2025 22:37:40.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1600.500000, 42.500000, 1077.500000]
+[29Jan2025 22:40:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:40:57.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:40:58.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
+[29Jan2025 22:40:58.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[29Jan2025 22:40:58.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[29Jan2025 22:40:58.126] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jan2025 22:41:05.339] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[29Jan2025 22:41:07.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:49971] logged in with entity id 26151 at (122.15729522705078, 97.31908711016845, 121.9078369140625)
+[29Jan2025 22:41:07.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[29Jan2025 22:41:13.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
+[29Jan2025 22:41:13.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
+[29Jan2025 22:41:13.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[29Jan2025 22:41:20.926] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[29Jan2025 22:41:22.375] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7789f165[id=81b063e1-2abd-4c65-9713-2c249088fd95,name=Jedu13,properties={textures=[com.mojang.authlib.properties.Property@14c0ec4e]},legacy=false] (/127.176.63.34:51989) lost connection: Disconnected
+[29Jan2025 22:41:33.233] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[29Jan2025 22:41:35.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:41779] logged in with entity id 26201 at (122.15729522705078, -91.81384589606779, 121.9078369140625)
+[29Jan2025 22:41:35.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[29Jan2025 22:41:37.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved too quickly! 0.0,-22.249284055965973,0.0
+[29Jan2025 22:41:37.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 fell out of the world
+[29Jan2025 22:41:37.743] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 22:41:42.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 17.500000, 64.500000, 34.500000]
+[29Jan2025 22:41:58.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1600.500000, 42.500000, 1076.500000]
+[29Jan2025 22:42:09.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 122.500000, -184.500000, 121.500000]
+[29Jan2025 22:42:12.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 fell out of the world
+[29Jan2025 22:42:12.334] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 22:42:26.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Set own game mode to Creative Mode]
+[29Jan2025 22:42:38.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:42:50.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [The Most Useful Key]
+[29Jan2025 22:43:09.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has reached the goal [A Fast Comeback]
+[29Jan2025 22:44:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Set own game mode to Survival Mode]
+[29Jan2025 22:44:12.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Jan2025 22:44:13.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [The City at the End of the Game]
+[29Jan2025 22:44:23.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -825.500000, 217.500000, 962.500000]
+[29Jan2025 22:44:46.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 withered away whilst fighting Wither Skeleton
+[29Jan2025 22:44:46.531] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 22:44:52.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:44:58.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -838.500000, 214.500000, 957.500000]
