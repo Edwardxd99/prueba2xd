@@ -472,6 +472,7 @@
       "baked_potato": "2025-01-28 02:28:25 +0000",
       "bread": "2025-01-18 20:17:35 +0000",
       "golden_apple": "2025-01-28 15:20:49 +0000",
+      "golden_carrot": "2025-01-29 23:16:50 +0000",
       "carrot": "2025-01-24 15:41:31 +0000"
     },
     "done": false
@@ -3939,6 +3940,12 @@
   "legendary_monsters:locate_shulker_tower": {
     "criteria": {
       "tower": "2025-01-29 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_tower_remains": {
+    "criteria": {
+      "ancient_tower_remains": "2025-01-29 23:18:58 +0000"
     },
     "done": true
   },

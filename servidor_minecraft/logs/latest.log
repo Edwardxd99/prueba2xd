@@ -381,3 +381,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Jan2025 23:15:25.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Enderman
 [29Jan2025 23:15:25.246] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
 [29Jan2025 23:15:29.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 23:17:51.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Far Away From Home]
+[29Jan2025 23:17:56.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mauro17YT) moved wrongly! 0.4118250406097559
+[29Jan2025 23:17:56.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mauro17YT) moved wrongly! 0.6189082945716109
+[29Jan2025 23:17:56.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mauro17YT) moved wrongly! 0.8268103548282397
+[29Jan2025 23:17:56.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mauro17YT) moved wrongly! 0.41794345347602757
+[29Jan2025 23:17:56.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Mauro17YT) moved wrongly! 0.628158009523986
+[29Jan2025 23:18:34.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:18:39.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Endersent
+[29Jan2025 23:18:39.031] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 23:18:40.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:18:42.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 23:18:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1157.500000, 58.500000, 807.500000]
+[29Jan2025 23:18:54.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:18:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Far Away From Home]
+[29Jan2025 23:19:00.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:19:05.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:19:16.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:19:44.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has completed the challenge [The Tall Guy]
+[29Jan2025 23:25:52.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 17.500000, 64.500000, 34.500000]
+[29Jan2025 23:26:03.068] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13265, l='ServerLevel[world]', x=-264.32, y=64.00, z=5259.17, removed=DISCARDED]
+[29Jan2025 23:26:13.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 577.500000, 68.500000, -171.500000]
+[29Jan2025 23:26:20.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -78.500000, 141.500000, 165.500000]

@@ -3382,9 +3382,21 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_endersent": {
+    "criteria": {
+      "endersent": "2025-01-29 23:19:44 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_shulker_tower": {
     "criteria": {
       "tower": "2025-01-29 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_tower_remains": {
+    "criteria": {
+      "ancient_tower_remains": "2025-01-29 23:17:51 +0000"
     },
     "done": true
   },
