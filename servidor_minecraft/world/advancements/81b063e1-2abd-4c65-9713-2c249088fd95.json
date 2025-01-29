@@ -564,6 +564,7 @@
       "honey_bottle": "2025-01-29 22:20:35 +0000",
       "cooked_mutton": "2025-01-18 20:17:58 +0000",
       "baked_potato": "2025-01-21 03:50:00 +0000",
+      "potato": "2025-01-29 23:38:15 +0000",
       "pumpkin_pie": "2025-01-24 15:53:48 +0000",
       "mutton": "2025-01-18 19:55:06 +0000",
       "bread": "2025-01-18 21:13:11 +0000",
@@ -3382,6 +3383,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-29 23:35:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-01-29 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-29 23:35:22 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_endersent": {
     "criteria": {
       "endersent": "2025-01-29 23:19:44 +0000"
@@ -3397,6 +3416,12 @@
   "legendary_monsters:locate_ancient_tower_remains": {
     "criteria": {
       "ancient_tower_remains": "2025-01-29 23:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-29 23:35:22 +0000"
     },
     "done": true
   },

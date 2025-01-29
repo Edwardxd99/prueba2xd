@@ -403,3 +403,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Jan2025 23:26:03.068] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13265, l='ServerLevel[world]', x=-264.32, y=64.00, z=5259.17, removed=DISCARDED]
 [29Jan2025 23:26:13.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 577.500000, 68.500000, -171.500000]
 [29Jan2025 23:26:20.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -78.500000, 141.500000, 165.500000]
+[29Jan2025 23:27:42.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 23:30:40.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jedu13> zzzzzzzz
+[29Jan2025 23:30:41.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[29Jan2025 23:30:41.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[29Jan2025 23:32:26.077] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[29Jan2025 23:32:29.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.28.193.150:44107] logged in with entity id 37277 at (-339.52921039397904, 80.47178649902344, 136.13237457728124)
+[29Jan2025 23:32:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[29Jan2025 23:32:38.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:33:29.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1309.500000, 63.500000, 932.500000]
+[29Jan2025 23:35:08.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[29Jan2025 23:36:48.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[29Jan2025 23:36:51.600] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[29Jan2025 23:36:51.600] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[29Jan2025 23:36:52.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved too quickly! -8.04357736699285,0.010650014126028395,6.270953295706704
+[29Jan2025 23:37:26.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Jan2025 23:37:58.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -2008.500000, 68.500000, 1199.500000]
+[29Jan2025 23:39:56.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [A Freezing Place]
+[29Jan2025 23:40:45.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT hit the ground too hard whilst trying to escape Frostbitten Golem
+[29Jan2025 23:40:45.446] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[29Jan2025 23:40:48.052] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13265, l='ServerLevel[world]', x=-264.32, y=64.00, z=5259.17, removed=DISCARDED]
+[29Jan2025 23:41:04.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [The Coldest Golem]
+[29Jan2025 23:41:14.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Jan2025 23:41:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT fell from a high place
+[29Jan2025 23:41:16.584] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[29Jan2025 23:41:18.902] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13265, l='ServerLevel[world]', x=-264.32, y=64.00, z=5259.17, removed=DISCARDED]
+[29Jan2025 23:42:35.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[29Jan2025 23:43:49.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Not Today, Thank You]
+[29Jan2025 23:45:59.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Jan2025 23:46:52.759] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[29Jan2025 23:46:52.759] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[29Jan2025 23:46:52.760] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[29Jan2025 23:46:53.747] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[29Jan2025 23:46:53.748] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
