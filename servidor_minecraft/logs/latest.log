@@ -214,3 +214,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Jan2025 21:38:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
 [29Jan2025 21:43:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -77.500000, 135.500000, 164.500000]
 [29Jan2025 21:44:13.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 153.500000, 86.500000, 302.500000]
+[29Jan2025 21:45:12.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 234.500000, 79.500000, 283.500000]
+[29Jan2025 21:45:41.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [A Terrible Fortress]
+[29Jan2025 21:48:05.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Into Fire]
+[29Jan2025 21:48:25.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was burnt to a crisp whilst fighting Blaze
+[29Jan2025 21:48:25.491] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 21:48:25.630] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Jan2025 21:48:25.631] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[29Jan2025 21:48:25.632] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[29Jan2025 21:48:25.632] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Jan2025 21:48:25.633] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[29Jan2025 21:48:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 264.500000, 74.500000, 333.500000]
+[29Jan2025 21:49:34.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -16.500000, 94.500000, 34.500000]
+[29Jan2025 21:49:46.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -88.500000, 125.500000, 130.500000]
+[29Jan2025 21:51:18.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 21:51:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 21:54:08.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 21:54:16.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 21:54:25.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1509.500000, 94.500000, 1095.500000]
+[29Jan2025 21:55:18.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:00:30.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:01:29.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Eye Spy]
+[29Jan2025 22:01:34.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Eye Spy]
+[29Jan2025 22:03:29.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1600.500000, 42.500000, 1076.500000]
+[29Jan2025 22:03:38.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Amateur Archaeologist]
+[29Jan2025 22:04:22.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
