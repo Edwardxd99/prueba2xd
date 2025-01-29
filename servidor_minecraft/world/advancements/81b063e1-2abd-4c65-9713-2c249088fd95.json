@@ -3382,5 +3382,11 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_shulker_tower": {
+    "criteria": {
+      "tower": "2025-01-29 23:11:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
