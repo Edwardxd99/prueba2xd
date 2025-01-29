@@ -3882,6 +3882,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-01-29 22:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-29 22:00:38 +0000"
@@ -3891,6 +3897,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-01-29 22:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-29 22:51:04 +0000"
     },
     "done": true
   },

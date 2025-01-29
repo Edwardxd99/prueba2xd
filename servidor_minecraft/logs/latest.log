@@ -329,3 +329,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Jan2025 22:44:46.531] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
 [29Jan2025 22:44:52.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
 [29Jan2025 22:44:58.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -838.500000, 214.500000, 957.500000]
+[29Jan2025 22:46:54.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Wither Skeleton
+[29Jan2025 22:46:54.281] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 22:46:58.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 22:47:46.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:47:48.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:47:50.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
+[29Jan2025 22:47:50.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
+[29Jan2025 22:47:50.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[29Jan2025 22:47:56.310] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[29Jan2025 22:47:58.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:36245] logged in with entity id 28010 at (-890.9310302734375, 125.50938624965826, 1034.953369140625)
+[29Jan2025 22:47:58.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[29Jan2025 22:48:03.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
+[29Jan2025 22:48:04.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
+[29Jan2025 22:48:04.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[29Jan2025 22:48:07.465] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[29Jan2025 22:48:09.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:47597] logged in with entity id 28043 at (-893.6565624836428, 104.72652022535615, 1031.0963102370927)
+[29Jan2025 22:48:09.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[29Jan2025 22:48:19.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -831.500000, 218.500000, 977.500000]
+[29Jan2025 22:49:26.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:55:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has reached the goal [Sky's the Limit]
