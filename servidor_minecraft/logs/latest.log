@@ -270,3 +270,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Jan2025 22:18:05.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved too quickly! 1700.6600435485882,7.464159374955443,-1073.8626280826402
 [29Jan2025 22:19:53.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has reached the goal [You Need a Mint]
 [29Jan2025 22:23:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has reached the goal [You Need a Mint]
+[29Jan2025 22:25:34.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was doomed to fall
+[29Jan2025 22:25:34.254] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 22:25:42.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:26:24.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Teber
+[29Jan2025 22:26:24.781] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 22:26:29.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:29:24.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Teber
+[29Jan2025 22:29:24.280] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 22:29:28.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:29:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -13.500000, 62.500000, -12.500000]
+[29Jan2025 22:30:52.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was doomed to fall by Ender Dragon
+[29Jan2025 22:30:52.828] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 22:30:57.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 22:31:47.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Free the End]
+[29Jan2025 22:32:48.349] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13265, l='ServerLevel[world]', x=-264.32, y=64.00, z=5259.17, removed=DISCARDED]
+[29Jan2025 22:32:58.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 577.500000, 68.500000, -171.500000]
+[29Jan2025 22:33:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -79.500000, 141.500000, 165.500000]
+[29Jan2025 22:33:07.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1600.500000, 42.500000, 1076.500000]

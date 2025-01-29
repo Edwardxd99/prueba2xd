@@ -537,6 +537,7 @@
       "minecraft:phantom": "2025-01-28 04:14:01 +0000",
       "minecraft:wither_skeleton": "2025-01-28 04:10:25 +0000",
       "minecraft:husk": "2025-01-21 04:13:12 +0000",
+      "minecraft:ender_dragon": "2025-01-29 22:31:47 +0000",
       "minecraft:cave_spider": "2025-01-21 03:04:25 +0000",
       "minecraft:silverfish": "2025-01-21 03:54:26 +0000",
       "minecraft:enderman": "2025-01-27 17:42:06 +0000",
@@ -559,6 +560,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-18 20:29:36 +0000",
+      "honey_bottle": "2025-01-29 22:20:35 +0000",
       "cooked_mutton": "2025-01-18 20:17:58 +0000",
       "baked_potato": "2025-01-21 03:50:00 +0000",
       "pumpkin_pie": "2025-01-24 15:53:48 +0000",
@@ -3118,6 +3120,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-29 22:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-29 22:31:47 +0000"
     },
     "done": true
   },
