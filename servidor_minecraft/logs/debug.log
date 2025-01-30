@@ -3670,3 +3670,130 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Jan2025 23:46:52.760] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
 [29Jan2025 23:46:53.747] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
 [29Jan2025 23:46:53.748] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[29Jan2025 23:47:13.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:48:03.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[29Jan2025 23:48:47.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was killed by magic
+[29Jan2025 23:48:47.984] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:589, y:128, z:-2096, dim:minecraft:overworld]
+[29Jan2025 23:48:47.987] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 23:48:52.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 589.500000, 128.500000, -2095.500000]
+[29Jan2025 23:49:06.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to -1095.500000, 63.500000, 719.500000]
+[29Jan2025 23:49:14.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Cloud Golem
+[29Jan2025 23:49:14.030] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:590, y:128, z:-2092, dim:minecraft:overworld]
+[29Jan2025 23:49:14.044] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[29Jan2025 23:49:14.075] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Jan2025 23:49:14.076] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 15 is dual wielding: false
+[29Jan2025 23:49:14.076] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[29Jan2025 23:49:14.076] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Jan2025 23:49:14.077] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[29Jan2025 23:49:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 590.500000, 128.500000, -2091.500000]
+[29Jan2025 23:50:34.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 23:50:34.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 23:50:35.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 23:51:01.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:51:03.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[29Jan2025 23:52:06.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[29Jan2025 23:52:46.974] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[29Jan2025 23:52:46.976] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[29Jan2025 23:52:49.472] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[29Jan2025 23:52:49.473] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[29Jan2025 23:52:49.473] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[29Jan2025 23:52:49.474] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[29Jan2025 23:52:49.474] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[29Jan2025 23:52:49.993] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[29Jan2025 23:54:08.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[29Jan2025 23:55:34.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 23:55:34.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 23:56:10.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved wrongly!
+[29Jan2025 23:56:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [A Terrifying Entrance]
+[29Jan2025 23:56:27.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Light as a Rabbit]
+[29Jan2025 23:58:32.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[29Jan2025 23:58:32.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [A Terrifying Entrance]
+[29Jan2025 23:58:54.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Haunted Knight
+[29Jan2025 23:58:54.729] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mauro17YT was created at position [x:-2511, y:134, z:641, dim:minecraft:overworld]
+[29Jan2025 23:58:54.738] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[29Jan2025 23:58:56.547] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13265, l='ServerLevel[world]', x=-264.32, y=64.00, z=5259.17, removed=DISCARDED]
+[29Jan2025 23:59:17.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Living Armor]
+[30Jan2025 00:00:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Undead Guard]
+[30Jan2025 00:00:14.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Undead Guard]
+[30Jan2025 00:00:34.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:00:34.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:00:38.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Living Armor]
+[30Jan2025 00:00:51.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Haunted Guard
+[30Jan2025 00:00:51.677] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-2517, y:124, z:626, dim:minecraft:overworld]
+[30Jan2025 00:00:51.685] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[30Jan2025 00:00:56.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2516.500000, 124.500000, 626.500000]
+[30Jan2025 00:01:11.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Posessed Paladin
+[30Jan2025 00:01:11.876] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-2507, y:124, z:628, dim:minecraft:overworld]
+[30Jan2025 00:01:11.887] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[30Jan2025 00:01:17.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2508.500000, 124.500000, 628.500000]
+[30Jan2025 00:01:17.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Posessed Paladin
+[30Jan2025 00:01:17.478] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mauro17YT was created at position [x:-2506, y:124, z:626, dim:minecraft:overworld]
+[30Jan2025 00:01:17.484] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[30Jan2025 00:01:17.485] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[30Jan2025 00:01:17.485] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[30Jan2025 00:01:17.485] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[30Jan2025 00:01:17.486] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[30Jan2025 00:01:17.488] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[30Jan2025 00:01:19.198] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13265, l='ServerLevel[world]', x=-264.32, y=64.00, z=5259.17, removed=DISCARDED]
+[30Jan2025 00:01:29.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Posessed Paladin
+[30Jan2025 00:01:29.380] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-2509, y:124, z:629, dim:minecraft:overworld]
+[30Jan2025 00:01:29.388] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[30Jan2025 00:01:29.392] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[30Jan2025 00:01:29.393] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 11 is dual wielding: false
+[30Jan2025 00:01:29.393] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[30Jan2025 00:01:29.393] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[30Jan2025 00:01:29.393] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[30Jan2025 00:01:32.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2509.500000, 124.500000, 629.500000]
+[30Jan2025 00:01:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [The Fallen Knight]
+[30Jan2025 00:03:59.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[30Jan2025 00:04:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[30Jan2025 00:05:00.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[30Jan2025 00:05:18.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[30Jan2025 00:05:34.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:05:34.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:05:56.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 577.500000, 68.500000, -171.500000]
+[30Jan2025 00:06:01.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT fell from a high place
+[30Jan2025 00:06:01.051] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mauro17YT was created at position [x:582, y:26, z:-168, dim:minecraft:overworld]
+[30Jan2025 00:06:01.054] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[30Jan2025 00:06:03.059] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13265, l='ServerLevel[world]', x=-264.32, y=64.00, z=5259.17, removed=DISCARDED]
+[30Jan2025 00:07:27.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[30Jan2025 00:10:34.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:10:34.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:11:35.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[30Jan2025 00:12:13.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -88.500000, 125.500000, 130.500000]
+[30Jan2025 00:15:34.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:15:34.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:18:21.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[30Jan2025 00:19:38.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[30Jan2025 00:19:41.130] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[30Jan2025 00:19:41.130] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[30Jan2025 00:19:53.016] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[30Jan2025 00:19:53.016] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[30Jan2025 00:19:53.016] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[30Jan2025 00:20:34.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:20:34.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:20:42.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT moved wrongly!
+[30Jan2025 00:21:00.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Dripstone Everywhere]
+[30Jan2025 00:21:05.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [A Disgusting Worm]
+[30Jan2025 00:21:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Dripstone Everywhere]
+[30Jan2025 00:21:12.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [A Disgusting Worm]
+[30Jan2025 00:21:24.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [An Imposter]
+[30Jan2025 00:21:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Spiky Worm
+[30Jan2025 00:21:30.832] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mauro17YT was created at position [x:-1235, y:63, z:-1203, dim:minecraft:overworld]
+[30Jan2025 00:21:30.834] [Server thread/INFO] [tombstone/]: The player Mauro17YT has successfully been saved
+[30Jan2025 00:21:32.603] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13265, l='ServerLevel[world]', x=-264.32, y=64.00, z=5259.17, removed=DISCARDED]
+[30Jan2025 00:21:53.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Ancient Guardian
+[30Jan2025 00:21:53.676] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-1245, y:63, z:-1219, dim:minecraft:overworld]
+[30Jan2025 00:21:53.684] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[30Jan2025 00:21:58.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1242.500000, 63.500000, -1220.500000]
+[30Jan2025 00:22:21.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Ancient Guardian
+[30Jan2025 00:22:21.176] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jedu13 was created at position [x:-1250, y:68, z:-1224, dim:minecraft:overworld]
+[30Jan2025 00:22:21.185] [Server thread/INFO] [tombstone/]: The player Jedu13 has successfully been saved
+[30Jan2025 00:22:26.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -1249.500000, 68.500000, -1223.500000]
+[30Jan2025 00:22:31.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [The One - Armed Monster]
+[30Jan2025 00:24:24.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -88.500000, 125.500000, 130.500000]
+[30Jan2025 00:24:45.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[30Jan2025 00:25:34.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 00:25:34.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 00:26:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has reached the goal [Waterworld]
+[30Jan2025 00:27:40.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3765ms or 75 ticks behind
