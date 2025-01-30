@@ -62,3 +62,33 @@
 [30Jan2025 00:24:45.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [30Jan2025 00:26:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has reached the goal [Waterworld]
 [30Jan2025 00:27:40.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3765ms or 75 ticks behind
+[30Jan2025 00:28:17.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -88.500000, 125.500000, 130.500000]
+[30Jan2025 00:29:08.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[30Jan2025 00:30:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[30Jan2025 00:32:26.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Long Time Ago]
+[30Jan2025 00:32:42.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[30Jan2025 00:32:42.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Long Time Ago]
+[30Jan2025 00:33:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [The Ancient Skeleton]
+[30Jan2025 00:35:09.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[30Jan2025 00:35:09.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[30Jan2025 00:35:23.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -16.500000, 94.500000, 34.500000]
+[30Jan2025 00:35:34.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -88.500000, 125.500000, 130.500000]
+[30Jan2025 00:35:36.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[30Jan2025 00:35:36.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[30Jan2025 00:35:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Jan2025 00:35:50.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jan2025 00:35:50.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jan2025 00:35:50.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jan2025 00:35:50.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jan2025 00:35:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[30Jan2025 00:35:50.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jan2025 00:35:50.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jan2025 00:35:50.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[30Jan2025 00:35:50.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[30Jan2025 00:35:50.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jan2025 00:35:50.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[30Jan2025 00:35:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jan2025 00:35:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jan2025 00:35:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[30Jan2025 00:35:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[30Jan2025 00:35:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

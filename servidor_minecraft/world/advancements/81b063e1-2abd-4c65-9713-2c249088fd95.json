@@ -2462,6 +2462,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-27 16:30:29 +0000",
       "minecraft:nether_wastes": "2025-01-27 16:44:39 +0000",
+      "minecraft:soul_sand_valley": "2025-01-30 00:31:43 +0000",
       "minecraft:warped_forest": "2025-01-28 02:48:05 +0000"
     },
     "done": false
@@ -3444,6 +3445,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-01-30 00:32:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-01-30 00:16:17 +0000"
@@ -3519,6 +3526,12 @@
   "legendary_monsters:defeat_spiky_bug": {
     "criteria": {
       "spiky_bug": "2025-01-30 00:21:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-30 00:26:29 +0000"
     },
     "done": true
   },

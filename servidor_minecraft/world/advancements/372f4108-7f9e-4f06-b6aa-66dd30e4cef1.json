@@ -4137,6 +4137,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-01-30 00:32:26 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_the_ancient_guardian": {
     "criteria": {
       "guardian": "2025-01-30 00:22:31 +0000"
@@ -4188,6 +4194,12 @@
   "legendary_monsters:defeat_spiky_bug": {
     "criteria": {
       "spiky_bug": "2025-01-30 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-01-30 00:33:03 +0000"
     },
     "done": true
   },
